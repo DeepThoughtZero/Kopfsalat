@@ -1,0 +1,25 @@
+dist/
+node_modules/
+__pycache__/
+*.tmp.mp3
+.DS_Store
+.audio-generation.lock
+
+# Local secrets, credentials and machine-specific agent/editor settings
+.env
+.env.*
+!.env.example
+.aws/
+.ssh/
+.agents/
+.codex/
+.vscode/
+.idea/
+AGENTS.md
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.bak
+*.swp

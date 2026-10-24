@@ -1,0 +1,1502 @@
+[
+  {
+    "id": "easy-001",
+    "level": "easy",
+    "text": "Dein liebster Urlaubsort"
+  },
+  {
+    "id": "easy-002",
+    "level": "easy",
+    "text": "Ein Tier, das als Mitbewohner lustig wäre"
+  },
+  {
+    "id": "easy-003",
+    "level": "easy",
+    "text": "Ein schlechter Ort für ein Blinddate"
+  },
+  {
+    "id": "easy-004",
+    "level": "easy",
+    "text": "Ein Essen, das immer glücklich macht"
+  },
+  {
+    "id": "easy-005",
+    "level": "easy",
+    "text": "Etwas, das man ständig verlegt"
+  },
+  {
+    "id": "easy-006",
+    "level": "easy",
+    "text": "Ein unnötiges Talent, das du gern hättest"
+  },
+  {
+    "id": "easy-007",
+    "level": "easy",
+    "text": "Ein Tier mit eingebautem Gute-Laune-Gesicht"
+  },
+  {
+    "id": "easy-008",
+    "level": "easy",
+    "text": "Ein Gegenstand, der in jede Handtasche gehört"
+  },
+  {
+    "id": "easy-009",
+    "level": "easy",
+    "text": "Ein Geräusch, das sofort nervt"
+  },
+  {
+    "id": "easy-010",
+    "level": "easy",
+    "text": "Ein peinlicher Name für ein Haustier"
+  },
+  {
+    "id": "easy-011",
+    "level": "easy",
+    "text": "Ein Essen, das auch kalt noch schmeckt"
+  },
+  {
+    "id": "easy-012",
+    "level": "easy",
+    "text": "Ein Ort, an dem man gut einschlafen kann"
+  },
+  {
+    "id": "easy-013",
+    "level": "easy",
+    "text": "Etwas, das im Urlaub immer vergessen wird"
+  },
+  {
+    "id": "easy-014",
+    "level": "easy",
+    "text": "Ein Beruf, den du einen Tag ausprobieren würdest"
+  },
+  {
+    "id": "easy-015",
+    "level": "easy",
+    "text": "Ein Tier, das eine gute Frisur hat"
+  },
+  {
+    "id": "easy-016",
+    "level": "easy",
+    "text": "Ein guter Name für eine sehr langsame Schildkröte"
+  },
+  {
+    "id": "easy-017",
+    "level": "easy",
+    "text": "Ein Snack für einen Filmabend"
+  },
+  {
+    "id": "easy-018",
+    "level": "easy",
+    "text": "Etwas, das montags verboten sein sollte"
+  },
+  {
+    "id": "easy-019",
+    "level": "easy",
+    "text": "Ein Gegenstand, der in einer WG verschwindet"
+  },
+  {
+    "id": "easy-020",
+    "level": "easy",
+    "text": "Ein Gemüse mit Starpotenzial"
+  },
+  {
+    "id": "easy-021",
+    "level": "easy",
+    "text": "Ein Lied, bei dem alle mitsingen"
+  },
+  {
+    "id": "easy-022",
+    "level": "easy",
+    "text": "Ein unnützes Souvenir"
+  },
+  {
+    "id": "easy-023",
+    "level": "easy",
+    "text": "Etwas, das nach Kindheit riecht"
+  },
+  {
+    "id": "easy-024",
+    "level": "easy",
+    "text": "Ein Ort für ein richtig gutes Picknick"
+  },
+  {
+    "id": "easy-025",
+    "level": "easy",
+    "text": "Ein Getränk, das nach Sommer schmeckt"
+  },
+  {
+    "id": "easy-026",
+    "level": "easy",
+    "text": "Ein Tier, das wie ein Rentner aussieht"
+  },
+  {
+    "id": "easy-027",
+    "level": "easy",
+    "text": "Ein guter Grund, zu spät zu kommen"
+  },
+  {
+    "id": "easy-028",
+    "level": "easy",
+    "text": "Ein Geschenk, über das Oma sich freut"
+  },
+  {
+    "id": "easy-029",
+    "level": "easy",
+    "text": "Ein Essen, das man heimlich direkt aus dem Topf isst"
+  },
+  {
+    "id": "easy-030",
+    "level": "easy",
+    "text": "Etwas, das man im Zug lieber nicht hört"
+  },
+  {
+    "id": "easy-031",
+    "level": "easy",
+    "text": "Eine Sache, die am Strand nervt"
+  },
+  {
+    "id": "easy-032",
+    "level": "easy",
+    "text": "Ein Tier, das einen Hut tragen sollte"
+  },
+  {
+    "id": "easy-033",
+    "level": "easy",
+    "text": "Ein Spielzeug, für das man nie zu alt wird"
+  },
+  {
+    "id": "easy-034",
+    "level": "easy",
+    "text": "Ein Belag für das perfekte Brötchen"
+  },
+  {
+    "id": "easy-035",
+    "level": "easy",
+    "text": "Ein Ort, an dem man flüstert"
+  },
+  {
+    "id": "easy-036",
+    "level": "easy",
+    "text": "Etwas, das beim Umzug immer auftaucht"
+  },
+  {
+    "id": "easy-037",
+    "level": "easy",
+    "text": "Ein typischer Inhalt einer Kramschublade"
+  },
+  {
+    "id": "easy-038",
+    "level": "easy",
+    "text": "Ein Essen, das Flecken garantiert"
+  },
+  {
+    "id": "easy-039",
+    "level": "easy",
+    "text": "Eine gute Ausrede fürs Nichtaufräumen"
+  },
+  {
+    "id": "easy-040",
+    "level": "easy",
+    "text": "Ein Tier, das zum Frühstück einlädt"
+  },
+  {
+    "id": "easy-041",
+    "level": "easy",
+    "text": "Etwas, das man nur im Hotel macht"
+  },
+  {
+    "id": "easy-042",
+    "level": "easy",
+    "text": "Ein schlechter Name für ein Restaurant"
+  },
+  {
+    "id": "easy-043",
+    "level": "easy",
+    "text": "Ein Geräusch, das gemütlich ist"
+  },
+  {
+    "id": "easy-044",
+    "level": "easy",
+    "text": "Ein Gegenstand, den man oft doppelt kauft"
+  },
+  {
+    "id": "easy-045",
+    "level": "easy",
+    "text": "Ein Essen für einen Regentag"
+  },
+  {
+    "id": "easy-046",
+    "level": "easy",
+    "text": "Ein Ort, an dem man immer jemanden trifft"
+  },
+  {
+    "id": "easy-047",
+    "level": "easy",
+    "text": "Ein Tier, das schlecht Verstecken spielt"
+  },
+  {
+    "id": "easy-048",
+    "level": "easy",
+    "text": "Etwas, das auf keiner Feier fehlen darf"
+  },
+  {
+    "id": "easy-049",
+    "level": "easy",
+    "text": "Ein guter Name für einen Staubsaugerroboter"
+  },
+  {
+    "id": "easy-050",
+    "level": "easy",
+    "text": "Ein Wort, das lustig klingt"
+  },
+  {
+    "id": "easy-051",
+    "level": "easy",
+    "text": "Eine Sache, die auf dem Sofa besser ist"
+  },
+  {
+    "id": "easy-052",
+    "level": "easy",
+    "text": "Ein Gemüse, das Kinder misstrauisch macht"
+  },
+  {
+    "id": "easy-053",
+    "level": "easy",
+    "text": "Ein Gegenstand aus einer chaotischen Küche"
+  },
+  {
+    "id": "easy-054",
+    "level": "easy",
+    "text": "Ein Tier, das aussieht, als hätte es verschlafen"
+  },
+  {
+    "id": "easy-055",
+    "level": "easy",
+    "text": "Etwas, das man auf einer langen Autofahrt braucht"
+  },
+  {
+    "id": "easy-056",
+    "level": "easy",
+    "text": "Ein Geschenk in letzter Minute"
+  },
+  {
+    "id": "easy-057",
+    "level": "easy",
+    "text": "Ein Essen, das man mit den Händen isst"
+  },
+  {
+    "id": "easy-058",
+    "level": "easy",
+    "text": "Eine Sache, die man am Wochenende aufschiebt"
+  },
+  {
+    "id": "easy-059",
+    "level": "easy",
+    "text": "Ein Ort für eine kleine Auszeit"
+  },
+  {
+    "id": "easy-060",
+    "level": "easy",
+    "text": "Ein Tier mit einem beeindruckenden Schnurrbart"
+  },
+  {
+    "id": "easy-061",
+    "level": "easy",
+    "text": "Etwas, das im Kühlschrank vergessen wird"
+  },
+  {
+    "id": "easy-062",
+    "level": "easy",
+    "text": "Ein Gegenstand, der nachts unheimlich aussieht"
+  },
+  {
+    "id": "easy-063",
+    "level": "easy",
+    "text": "Ein Geruch, der Hunger macht"
+  },
+  {
+    "id": "easy-064",
+    "level": "easy",
+    "text": "Eine Sache, die im Schwimmbad nervt"
+  },
+  {
+    "id": "easy-065",
+    "level": "easy",
+    "text": "Ein Essen, das bei einem Date schwierig ist"
+  },
+  {
+    "id": "easy-066",
+    "level": "easy",
+    "text": "Ein Tier, das eine Sonnenbrille verdient"
+  },
+  {
+    "id": "easy-067",
+    "level": "easy",
+    "text": "Ein gutes Versteck für Süßigkeiten"
+  },
+  {
+    "id": "easy-068",
+    "level": "easy",
+    "text": "Ein Kleidungsstück für einen faulen Sonntag"
+  },
+  {
+    "id": "easy-069",
+    "level": "easy",
+    "text": "Ein Ort, an dem man seine Ruhe haben möchte"
+  },
+  {
+    "id": "easy-070",
+    "level": "easy",
+    "text": "Ein Gegenstand, der immer im Weg steht"
+  },
+  {
+    "id": "easy-071",
+    "level": "easy",
+    "text": "Ein Filmgenre für einen gemütlichen Abend"
+  },
+  {
+    "id": "easy-072",
+    "level": "easy",
+    "text": "Etwas, das man vor Gästen schnell versteckt"
+  },
+  {
+    "id": "easy-073",
+    "level": "easy",
+    "text": "Ein Tier, das wie ein Chef wirkt"
+  },
+  {
+    "id": "easy-074",
+    "level": "easy",
+    "text": "Eine Sache, die beim Camping fehlt"
+  },
+  {
+    "id": "easy-075",
+    "level": "easy",
+    "text": "Ein Essen, das man mit Käse verbessern kann"
+  },
+  {
+    "id": "easy-076",
+    "level": "easy",
+    "text": "Ein Geräusch aus einer typischen Küche"
+  },
+  {
+    "id": "easy-077",
+    "level": "easy",
+    "text": "Ein Ort, an dem man gern länger bleibt"
+  },
+  {
+    "id": "easy-078",
+    "level": "easy",
+    "text": "Etwas, das beim Bäcker verführerisch duftet"
+  },
+  {
+    "id": "easy-079",
+    "level": "easy",
+    "text": "Ein Gegenstand, den man im Urlaub zu teuer kauft"
+  },
+  {
+    "id": "easy-080",
+    "level": "easy",
+    "text": "Ein Tier für ein sehr langsames Wettrennen"
+  },
+  {
+    "id": "easy-081",
+    "level": "easy",
+    "text": "Eine Sache, die man beim Putzen findet"
+  },
+  {
+    "id": "easy-082",
+    "level": "easy",
+    "text": "Ein guter Name für ein kleines Boot"
+  },
+  {
+    "id": "easy-083",
+    "level": "easy",
+    "text": "Etwas, das im Winter besonders gemütlich ist"
+  },
+  {
+    "id": "easy-084",
+    "level": "easy",
+    "text": "Ein Essen, das man als Kind geliebt hat"
+  },
+  {
+    "id": "easy-085",
+    "level": "easy",
+    "text": "Ein Ort für ein lustiges Gruppenfoto"
+  },
+  {
+    "id": "easy-086",
+    "level": "easy",
+    "text": "Ein Tier mit einem überraschend langen Hals"
+  },
+  {
+    "id": "easy-087",
+    "level": "easy",
+    "text": "Etwas, das man im Rucksack immer brauchen kann"
+  },
+  {
+    "id": "easy-088",
+    "level": "easy",
+    "text": "Ein typischer Satz beim Familienessen"
+  },
+  {
+    "id": "easy-089",
+    "level": "easy",
+    "text": "Ein Gegenstand, der beim Stromausfall hilft"
+  },
+  {
+    "id": "easy-090",
+    "level": "easy",
+    "text": "Ein Getränk für eine Gartenparty"
+  },
+  {
+    "id": "easy-091",
+    "level": "easy",
+    "text": "Eine Sache, die man im Supermarkt spontan kauft"
+  },
+  {
+    "id": "easy-092",
+    "level": "easy",
+    "text": "Ein Tier, das man gern streicheln würde"
+  },
+  {
+    "id": "easy-093",
+    "level": "easy",
+    "text": "Ein Ort für eine Geburtstagsparty"
+  },
+  {
+    "id": "easy-094",
+    "level": "easy",
+    "text": "Ein Frühstück, für das man früh aufsteht"
+  },
+  {
+    "id": "easy-095",
+    "level": "easy",
+    "text": "Etwas, das beim Grillen schiefgehen kann"
+  },
+  {
+    "id": "easy-096",
+    "level": "easy",
+    "text": "Ein guter Name für ein flauschiges Kaninchen"
+  },
+  {
+    "id": "easy-097",
+    "level": "easy",
+    "text": "Ein Gegenstand für eine einsame Insel"
+  },
+  {
+    "id": "easy-098",
+    "level": "easy",
+    "text": "Ein Essen, das knuspern muss"
+  },
+  {
+    "id": "easy-099",
+    "level": "easy",
+    "text": "Eine Sache, die einen schlechten Tag rettet"
+  },
+  {
+    "id": "easy-100",
+    "level": "easy",
+    "text": "Ein Tier, das als Maskottchen gute Laune macht"
+  },
+  {
+    "id": "medium-001",
+    "level": "medium",
+    "text": "Gegen welches Tier würde ein Kampf knapp ausgehen?"
+  },
+  {
+    "id": "medium-002",
+    "level": "medium",
+    "text": "Eine Superkraft, die im Büro nützlich wäre"
+  },
+  {
+    "id": "medium-003",
+    "level": "medium",
+    "text": "Ein schlechter Ort für einen Heiratsantrag"
+  },
+  {
+    "id": "medium-004",
+    "level": "medium",
+    "text": "Ein Beruf, den ein Waschbär gut machen würde"
+  },
+  {
+    "id": "medium-005",
+    "level": "medium",
+    "text": "Ein Satz, den man beim Friseur nicht hören möchte"
+  },
+  {
+    "id": "medium-006",
+    "level": "medium",
+    "text": "Ein Gegenstand, der ein Geheimleben haben könnte"
+  },
+  {
+    "id": "medium-007",
+    "level": "medium",
+    "text": "Ein unpassender Name für ein Luxushotel"
+  },
+  {
+    "id": "medium-008",
+    "level": "medium",
+    "text": "Ein Tier, das eine Talkshow moderieren sollte"
+  },
+  {
+    "id": "medium-009",
+    "level": "medium",
+    "text": "Eine Sache, die auf dem Mond sofort nerven würde"
+  },
+  {
+    "id": "medium-010",
+    "level": "medium",
+    "text": "Ein schlechter Moment für einen Lachanfall"
+  },
+  {
+    "id": "medium-011",
+    "level": "medium",
+    "text": "Ein Gemüse, das als Bösewicht überzeugt"
+  },
+  {
+    "id": "medium-012",
+    "level": "medium",
+    "text": "Ein Gesetz, das Katzen einführen würden"
+  },
+  {
+    "id": "medium-013",
+    "level": "medium",
+    "text": "Ein peinlicher Inhalt für eine Zeitkapsel"
+  },
+  {
+    "id": "medium-014",
+    "level": "medium",
+    "text": "Ein Produkt, das niemand mit Glitzer braucht"
+  },
+  {
+    "id": "medium-015",
+    "level": "medium",
+    "text": "Ein schlechter Slogan für eine Fluggesellschaft"
+  },
+  {
+    "id": "medium-016",
+    "level": "medium",
+    "text": "Ein Haushaltsgerät mit Größenwahn"
+  },
+  {
+    "id": "medium-017",
+    "level": "medium",
+    "text": "Ein Ort, an dem ein Zauberstab unpraktisch wäre"
+  },
+  {
+    "id": "medium-018",
+    "level": "medium",
+    "text": "Ein Tier, dem du dein Passwort anvertrauen würdest"
+  },
+  {
+    "id": "medium-019",
+    "level": "medium",
+    "text": "Eine Ausrede, die nur ein Vampir benutzen kann"
+  },
+  {
+    "id": "medium-020",
+    "level": "medium",
+    "text": "Ein Sport, der mit Gummistiefeln besser wäre"
+  },
+  {
+    "id": "medium-021",
+    "level": "medium",
+    "text": "Ein Satz, der jedes Bewerbungsgespräch ruiniert"
+  },
+  {
+    "id": "medium-022",
+    "level": "medium",
+    "text": "Ein Mitbringsel von einer Reise in die Zukunft"
+  },
+  {
+    "id": "medium-023",
+    "level": "medium",
+    "text": "Eine Sache, die ein Pirat im Supermarkt kauft"
+  },
+  {
+    "id": "medium-024",
+    "level": "medium",
+    "text": "Ein schlechter Name für einen Superhelden"
+  },
+  {
+    "id": "medium-025",
+    "level": "medium",
+    "text": "Ein Gegenstand, der dringend ein Update braucht"
+  },
+  {
+    "id": "medium-026",
+    "level": "medium",
+    "text": "Ein Tier, das als Türsteher überzeugend wäre"
+  },
+  {
+    "id": "medium-027",
+    "level": "medium",
+    "text": "Ein Grund, warum ein Roboter kündigen würde"
+  },
+  {
+    "id": "medium-028",
+    "level": "medium",
+    "text": "Eine olympische Disziplin für sehr faule Menschen"
+  },
+  {
+    "id": "medium-029",
+    "level": "medium",
+    "text": "Ein Essen, das in der Schwerelosigkeit Chaos macht"
+  },
+  {
+    "id": "medium-030",
+    "level": "medium",
+    "text": "Ein Ort für ein geheimes Treffen von Gartenzwergen"
+  },
+  {
+    "id": "medium-031",
+    "level": "medium",
+    "text": "Ein Satz, den ein Navi niemals sagen sollte"
+  },
+  {
+    "id": "medium-032",
+    "level": "medium",
+    "text": "Eine App, die deine Oma erfinden würde"
+  },
+  {
+    "id": "medium-033",
+    "level": "medium",
+    "text": "Ein Beruf mit dem schlechtesten Kostüm"
+  },
+  {
+    "id": "medium-034",
+    "level": "medium",
+    "text": "Ein Tier mit überraschend viel Drama-Potenzial"
+  },
+  {
+    "id": "medium-035",
+    "level": "medium",
+    "text": "Ein unpraktisches Geschenk für einen Riesen"
+  },
+  {
+    "id": "medium-036",
+    "level": "medium",
+    "text": "Ein Geruch, den niemand als Parfüm braucht"
+  },
+  {
+    "id": "medium-037",
+    "level": "medium",
+    "text": "Eine Sache, die ein Geist vermissen würde"
+  },
+  {
+    "id": "medium-038",
+    "level": "medium",
+    "text": "Ein ungewöhnlicher Inhalt einer Schatztruhe"
+  },
+  {
+    "id": "medium-039",
+    "level": "medium",
+    "text": "Ein schlechter Name für ein Raumschiff"
+  },
+  {
+    "id": "medium-040",
+    "level": "medium",
+    "text": "Ein Alltagsproblem eines Drachen"
+  },
+  {
+    "id": "medium-041",
+    "level": "medium",
+    "text": "Ein Gegenstand, der in einer Krone seltsam wäre"
+  },
+  {
+    "id": "medium-042",
+    "level": "medium",
+    "text": "Eine Sache, über die Schneemänner streiten"
+  },
+  {
+    "id": "medium-043",
+    "level": "medium",
+    "text": "Ein Tier, das im Fitnessstudio auffallen würde"
+  },
+  {
+    "id": "medium-044",
+    "level": "medium",
+    "text": "Ein Satz, den man unter Wasser nicht sagen kann"
+  },
+  {
+    "id": "medium-045",
+    "level": "medium",
+    "text": "Ein schlechter Ort für einen Wackelpudding-Wettbewerb"
+  },
+  {
+    "id": "medium-046",
+    "level": "medium",
+    "text": "Eine Sache, die ein König heimlich sammelt"
+  },
+  {
+    "id": "medium-047",
+    "level": "medium",
+    "text": "Ein Grund für einen Streit zwischen zwei Socken"
+  },
+  {
+    "id": "medium-048",
+    "level": "medium",
+    "text": "Ein Produkt mit einer völlig unnötigen Luxusversion"
+  },
+  {
+    "id": "medium-049",
+    "level": "medium",
+    "text": "Ein peinlicher Zauberspruch"
+  },
+  {
+    "id": "medium-050",
+    "level": "medium",
+    "text": "Ein Tier, das beim Karaoke gewinnt"
+  },
+  {
+    "id": "medium-051",
+    "level": "medium",
+    "text": "Ein Gegenstand, der als Haustier pflegeleicht wäre"
+  },
+  {
+    "id": "medium-052",
+    "level": "medium",
+    "text": "Ein Urlaubsziel für einen überarbeiteten Geist"
+  },
+  {
+    "id": "medium-053",
+    "level": "medium",
+    "text": "Ein schlechter Zeitpunkt, unsichtbar zu werden"
+  },
+  {
+    "id": "medium-054",
+    "level": "medium",
+    "text": "Ein Geräusch, das ein Elektroauto machen sollte"
+  },
+  {
+    "id": "medium-055",
+    "level": "medium",
+    "text": "Ein Beruf, für den Tentakel praktisch wären"
+  },
+  {
+    "id": "medium-056",
+    "level": "medium",
+    "text": "Eine Sache, die in einer Drachenhöhle herumliegt"
+  },
+  {
+    "id": "medium-057",
+    "level": "medium",
+    "text": "Ein schlechter Name für einen Sicherheitsdienst"
+  },
+  {
+    "id": "medium-058",
+    "level": "medium",
+    "text": "Ein Essen, das ein Geheimagent nicht bestellen sollte"
+  },
+  {
+    "id": "medium-059",
+    "level": "medium",
+    "text": "Eine Superkraft, die beim ersten Date stört"
+  },
+  {
+    "id": "medium-060",
+    "level": "medium",
+    "text": "Ein Gegenstand für einen sehr kleinen Weltuntergang"
+  },
+  {
+    "id": "medium-061",
+    "level": "medium",
+    "text": "Ein Tier, das im Gemeinderat sitzen sollte"
+  },
+  {
+    "id": "medium-062",
+    "level": "medium",
+    "text": "Ein Satz, der einen Campingausflug beendet"
+  },
+  {
+    "id": "medium-063",
+    "level": "medium",
+    "text": "Ein unnötiges Zubehör für einen Toaster"
+  },
+  {
+    "id": "medium-064",
+    "level": "medium",
+    "text": "Ein Ort, an dem man keinen Konfettiregen möchte"
+  },
+  {
+    "id": "medium-065",
+    "level": "medium",
+    "text": "Ein Problem, das nur Zeitreisende haben"
+  },
+  {
+    "id": "medium-066",
+    "level": "medium",
+    "text": "Ein guter Deckname für einen tollpatschigen Spion"
+  },
+  {
+    "id": "medium-067",
+    "level": "medium",
+    "text": "Eine Sache, die ein Alien an Menschen seltsam findet"
+  },
+  {
+    "id": "medium-068",
+    "level": "medium",
+    "text": "Ein Tier, das einen Podcast starten würde"
+  },
+  {
+    "id": "medium-069",
+    "level": "medium",
+    "text": "Ein unpassendes Motiv für eine Hochzeitstorte"
+  },
+  {
+    "id": "medium-070",
+    "level": "medium",
+    "text": "Ein schlechter Name für eine Meditations-App"
+  },
+  {
+    "id": "medium-071",
+    "level": "medium",
+    "text": "Eine Sache, die ein sprechender Kühlschrank verraten würde"
+  },
+  {
+    "id": "medium-072",
+    "level": "medium",
+    "text": "Ein Alltagsgegenstand mit Rockstar-Allüren"
+  },
+  {
+    "id": "medium-073",
+    "level": "medium",
+    "text": "Ein Grund, warum ein Einhorn schlechte Laune hat"
+  },
+  {
+    "id": "medium-074",
+    "level": "medium",
+    "text": "Ein Beruf für jemanden, der Gedanken lesen kann"
+  },
+  {
+    "id": "medium-075",
+    "level": "medium",
+    "text": "Ein Essen für ein Bankett der Monster"
+  },
+  {
+    "id": "medium-076",
+    "level": "medium",
+    "text": "Ein Satz, der in einer Geisterbahn beruhigen soll"
+  },
+  {
+    "id": "medium-077",
+    "level": "medium",
+    "text": "Eine Sache, die ein Detektiv im Urlaub sucht"
+  },
+  {
+    "id": "medium-078",
+    "level": "medium",
+    "text": "Ein unpraktischer Ort für eine Geheimtür"
+  },
+  {
+    "id": "medium-079",
+    "level": "medium",
+    "text": "Ein Tier, das heimlich Milliardär sein könnte"
+  },
+  {
+    "id": "medium-080",
+    "level": "medium",
+    "text": "Ein Gegenstand, der als Mikrofon durchgeht"
+  },
+  {
+    "id": "medium-081",
+    "level": "medium",
+    "text": "Eine schlechte Überraschung im Glückskeks"
+  },
+  {
+    "id": "medium-082",
+    "level": "medium",
+    "text": "Ein Preis für den langweiligsten Wettbewerb"
+  },
+  {
+    "id": "medium-083",
+    "level": "medium",
+    "text": "Eine Sache, die im Märchen-Büro auf dem Tisch liegt"
+  },
+  {
+    "id": "medium-084",
+    "level": "medium",
+    "text": "Ein unglücklicher Name für eine Wetter-App"
+  },
+  {
+    "id": "medium-085",
+    "level": "medium",
+    "text": "Ein Tier, das bei einer Klassenfahrt die Aufsicht hätte"
+  },
+  {
+    "id": "medium-086",
+    "level": "medium",
+    "text": "Ein schlechter Grund, eine Statue zu errichten"
+  },
+  {
+    "id": "medium-087",
+    "level": "medium",
+    "text": "Ein Geschenk für jemanden, der schon alles hat"
+  },
+  {
+    "id": "medium-088",
+    "level": "medium",
+    "text": "Ein Problem in einer WG voller Zauberer"
+  },
+  {
+    "id": "medium-089",
+    "level": "medium",
+    "text": "Ein Gegenstand, der als Familienerbstück enttäuscht"
+  },
+  {
+    "id": "medium-090",
+    "level": "medium",
+    "text": "Ein Tier, das ständig Sprachnachrichten schicken würde"
+  },
+  {
+    "id": "medium-091",
+    "level": "medium",
+    "text": "Ein schlechter Ort für einen sehr großen Magneten"
+  },
+  {
+    "id": "medium-092",
+    "level": "medium",
+    "text": "Ein Satz, den man im Fahrstuhl nicht hören möchte"
+  },
+  {
+    "id": "medium-093",
+    "level": "medium",
+    "text": "Eine neue Geschmacksrichtung, die niemand bestellt"
+  },
+  {
+    "id": "medium-094",
+    "level": "medium",
+    "text": "Ein Hobby für einen pensionierten Superschurken"
+  },
+  {
+    "id": "medium-095",
+    "level": "medium",
+    "text": "Ein Alltagsproblem eines Menschen mit Flügeln"
+  },
+  {
+    "id": "medium-096",
+    "level": "medium",
+    "text": "Ein Tier, das heimlich die Fernbedienung kontrolliert"
+  },
+  {
+    "id": "medium-097",
+    "level": "medium",
+    "text": "Eine Sache, die ein Ritter bei der Versicherung meldet"
+  },
+  {
+    "id": "medium-098",
+    "level": "medium",
+    "text": "Ein schlechter Name für ein Kinderkarussell"
+  },
+  {
+    "id": "medium-099",
+    "level": "medium",
+    "text": "Ein Gegenstand, der bei einer Talentshow überrascht"
+  },
+  {
+    "id": "medium-100",
+    "level": "medium",
+    "text": "Eine Erfindung, die den Montag erträglicher macht"
+  },
+  {
+    "id": "hard-001",
+    "level": "hard",
+    "text": "Eine harmlose Sache, die wie eine Drohung klingt"
+  },
+  {
+    "id": "hard-002",
+    "level": "hard",
+    "text": "Ein Gefühl, das einen eigenen Feiertag verdient"
+  },
+  {
+    "id": "hard-003",
+    "level": "hard",
+    "text": "Ein Geräusch, das nach einer schlechten Entscheidung klingt"
+  },
+  {
+    "id": "hard-004",
+    "level": "hard",
+    "text": "Eine Ausrede, die ein Zeitreisender nicht überprüfen kann"
+  },
+  {
+    "id": "hard-005",
+    "level": "hard",
+    "text": "Ein Luxusproblem im Schlaraffenland"
+  },
+  {
+    "id": "hard-006",
+    "level": "hard",
+    "text": "Ein schlechter Werbeslogan für die Unsterblichkeit"
+  },
+  {
+    "id": "hard-007",
+    "level": "hard",
+    "text": "Eine Sache, die mit dramatischer Musik bedeutend wirkt"
+  },
+  {
+    "id": "hard-008",
+    "level": "hard",
+    "text": "Ein völlig unverdächtiger Satz aus dem Mund eines Bösewichts"
+  },
+  {
+    "id": "hard-009",
+    "level": "hard",
+    "text": "Ein Bürojob im Inneren eines menschlichen Gehirns"
+  },
+  {
+    "id": "hard-010",
+    "level": "hard",
+    "text": "Ein Gegenstand, der deine Persönlichkeit beleidigend gut beschreibt"
+  },
+  {
+    "id": "hard-011",
+    "level": "hard",
+    "text": "Eine Sache, für die es eine Weltmeisterschaft geben sollte"
+  },
+  {
+    "id": "hard-012",
+    "level": "hard",
+    "text": "Ein Titel für die Autobiografie einer einsamen Socke"
+  },
+  {
+    "id": "hard-013",
+    "level": "hard",
+    "text": "Ein Gefühl, das man in Dosen verkaufen könnte"
+  },
+  {
+    "id": "hard-014",
+    "level": "hard",
+    "text": "Ein schlechter Ratschlag von deinem zukünftigen Ich"
+  },
+  {
+    "id": "hard-015",
+    "level": "hard",
+    "text": "Ein Grund für eine schlechte Bewertung des Paradieses"
+  },
+  {
+    "id": "hard-016",
+    "level": "hard",
+    "text": "Eine Sache, die beim zweiten Nachdenken unheimlich ist"
+  },
+  {
+    "id": "hard-017",
+    "level": "hard",
+    "text": "Ein Name für eine Partei der Haushaltsgeräte"
+  },
+  {
+    "id": "hard-018",
+    "level": "hard",
+    "text": "Ein Geräusch, das sich nach Dienstag anfühlt"
+  },
+  {
+    "id": "hard-019",
+    "level": "hard",
+    "text": "Ein philosophisches Problem für einen Staubsaugerroboter"
+  },
+  {
+    "id": "hard-020",
+    "level": "hard",
+    "text": "Eine Sache, die zu viel Selbstvertrauen hat"
+  },
+  {
+    "id": "hard-021",
+    "level": "hard",
+    "text": "Ein schlechter Satz für den Beginn einer Weltfriedensrede"
+  },
+  {
+    "id": "hard-022",
+    "level": "hard",
+    "text": "Ein Alltagsritual, das Aliens für Religion halten würden"
+  },
+  {
+    "id": "hard-023",
+    "level": "hard",
+    "text": "Ein Produkt für Menschen mit zu viel Freizeit"
+  },
+  {
+    "id": "hard-024",
+    "level": "hard",
+    "text": "Eine Sache, die als Kündigungsgrund absurd ehrlich wäre"
+  },
+  {
+    "id": "hard-025",
+    "level": "hard",
+    "text": "Ein Name für eine Versicherung gegen peinliche Erinnerungen"
+  },
+  {
+    "id": "hard-026",
+    "level": "hard",
+    "text": "Ein emotionales Problem einer unbenutzten Discokugel"
+  },
+  {
+    "id": "hard-027",
+    "level": "hard",
+    "text": "Eine Regel für eine Gesellschaft aus notorischen Zuspätkommern"
+  },
+  {
+    "id": "hard-028",
+    "level": "hard",
+    "text": "Ein schlechter Moment, plötzlich alles zu verstehen"
+  },
+  {
+    "id": "hard-029",
+    "level": "hard",
+    "text": "Eine Sache, die sich als geheime Währung eignet"
+  },
+  {
+    "id": "hard-030",
+    "level": "hard",
+    "text": "Ein Titel für einen Horrorfilm über Bürokratie"
+  },
+  {
+    "id": "hard-031",
+    "level": "hard",
+    "text": "Eine Beschwerde eines pensionierten Schutzengels"
+  },
+  {
+    "id": "hard-032",
+    "level": "hard",
+    "text": "Ein Geräusch, das ein schlechtes Gewissen machen könnte"
+  },
+  {
+    "id": "hard-033",
+    "level": "hard",
+    "text": "Ein Gegenstand mit dem größten Bedürfnis nach Anerkennung"
+  },
+  {
+    "id": "hard-034",
+    "level": "hard",
+    "text": "Eine Sache, die man seiner Intuition zurückgeben möchte"
+  },
+  {
+    "id": "hard-035",
+    "level": "hard",
+    "text": "Ein unwahrscheinlicher Grund für einen Weltrekord"
+  },
+  {
+    "id": "hard-036",
+    "level": "hard",
+    "text": "Ein schlechter Slogan für ein Portal in eine andere Dimension"
+  },
+  {
+    "id": "hard-037",
+    "level": "hard",
+    "text": "Ein Problem in der Personalabteilung des Schicksals"
+  },
+  {
+    "id": "hard-038",
+    "level": "hard",
+    "text": "Eine Sache, die mit einem Gütesiegel verdächtiger wird"
+  },
+  {
+    "id": "hard-039",
+    "level": "hard",
+    "text": "Ein Name für ein Museum verpasster Gelegenheiten"
+  },
+  {
+    "id": "hard-040",
+    "level": "hard",
+    "text": "Ein Ratschlag, den ein Spiegel satt hätte"
+  },
+  {
+    "id": "hard-041",
+    "level": "hard",
+    "text": "Ein unnötiger Wettbewerb zwischen zwei Bergen"
+  },
+  {
+    "id": "hard-042",
+    "level": "hard",
+    "text": "Eine Sache, die bei völliger Ehrlichkeit anders heißen würde"
+  },
+  {
+    "id": "hard-043",
+    "level": "hard",
+    "text": "Ein Beruf, den das schlechte Gewissen nebenbei ausübt"
+  },
+  {
+    "id": "hard-044",
+    "level": "hard",
+    "text": "Ein Titel für einen Liebesroman zwischen zwei Ampeln"
+  },
+  {
+    "id": "hard-045",
+    "level": "hard",
+    "text": "Eine peinliche Frage an ein allwissendes Orakel"
+  },
+  {
+    "id": "hard-046",
+    "level": "hard",
+    "text": "Ein Geräusch, das nach sozialer Überforderung klingt"
+  },
+  {
+    "id": "hard-047",
+    "level": "hard",
+    "text": "Eine Sache, die als Abo-Modell besonders absurd wäre"
+  },
+  {
+    "id": "hard-048",
+    "level": "hard",
+    "text": "Ein Grund für einen Burnout des Osterhasen"
+  },
+  {
+    "id": "hard-049",
+    "level": "hard",
+    "text": "Ein Alltagsproblem in einer Welt ohne Geheimnisse"
+  },
+  {
+    "id": "hard-050",
+    "level": "hard",
+    "text": "Ein Preis für die überzeugendste Selbsttäuschung"
+  },
+  {
+    "id": "hard-051",
+    "level": "hard",
+    "text": "Eine Sache, die der Zufall absichtlich macht"
+  },
+  {
+    "id": "hard-052",
+    "level": "hard",
+    "text": "Ein schlechter Kosename für das eigene Ego"
+  },
+  {
+    "id": "hard-053",
+    "level": "hard",
+    "text": "Ein Gegenstand für das Museum menschlicher Ungeduld"
+  },
+  {
+    "id": "hard-054",
+    "level": "hard",
+    "text": "Eine Schlagzeile aus einer Zeitung für Gartenzwerge"
+  },
+  {
+    "id": "hard-055",
+    "level": "hard",
+    "text": "Eine Sache, die in Zeitlupe würdevoller wirkt"
+  },
+  {
+    "id": "hard-056",
+    "level": "hard",
+    "text": "Ein Argument gegen die Einführung von Telepathie"
+  },
+  {
+    "id": "hard-057",
+    "level": "hard",
+    "text": "Ein Grund, warum die Zukunft die Vergangenheit blockiert"
+  },
+  {
+    "id": "hard-058",
+    "level": "hard",
+    "text": "Ein Name für einen Club chronischer Zweifler"
+  },
+  {
+    "id": "hard-059",
+    "level": "hard",
+    "text": "Eine Sache, die nur beim dritten Mal eine Tradition wird"
+  },
+  {
+    "id": "hard-060",
+    "level": "hard",
+    "text": "Ein Streitpunkt zwischen Logik und Bauchgefühl"
+  },
+  {
+    "id": "hard-061",
+    "level": "hard",
+    "text": "Ein schlechter Zeitpunkt für eine existenzielle Erkenntnis"
+  },
+  {
+    "id": "hard-062",
+    "level": "hard",
+    "text": "Ein Produkt, das Nostalgie als Nebenwirkung hat"
+  },
+  {
+    "id": "hard-063",
+    "level": "hard",
+    "text": "Eine Sache, die im Lebenslauf eines Gespensts steht"
+  },
+  {
+    "id": "hard-064",
+    "level": "hard",
+    "text": "Ein Geräusch für den Moment, in dem die Motivation geht"
+  },
+  {
+    "id": "hard-065",
+    "level": "hard",
+    "text": "Ein Motto für eine Stadt voller Perfektionisten"
+  },
+  {
+    "id": "hard-066",
+    "level": "hard",
+    "text": "Ein Alltagserlebnis mit überraschend viel Endgegner-Energie"
+  },
+  {
+    "id": "hard-067",
+    "level": "hard",
+    "text": "Eine Sache, für die die Menschheit eine Rückgabefrist braucht"
+  },
+  {
+    "id": "hard-068",
+    "level": "hard",
+    "text": "Ein Grund, warum sich ein Paralleluniversum entschuldigt"
+  },
+  {
+    "id": "hard-069",
+    "level": "hard",
+    "text": "Ein Titel für die Memoiren einer Warteschlange"
+  },
+  {
+    "id": "hard-070",
+    "level": "hard",
+    "text": "Ein Gegenstand, der passiv-aggressive Nachrichten schreiben würde"
+  },
+  {
+    "id": "hard-071",
+    "level": "hard",
+    "text": "Eine Sache, die nach Erfolg aussieht, aber keiner ist"
+  },
+  {
+    "id": "hard-072",
+    "level": "hard",
+    "text": "Ein schlechter Name für eine Schule des Optimismus"
+  },
+  {
+    "id": "hard-073",
+    "level": "hard",
+    "text": "Ein Wunsch, den eine pedantische Fee falsch verstehen würde"
+  },
+  {
+    "id": "hard-074",
+    "level": "hard",
+    "text": "Ein Problem mit einer Fernbedienung für Gefühle"
+  },
+  {
+    "id": "hard-075",
+    "level": "hard",
+    "text": "Eine Sache, die der innere Schweinehund als Weiterbildung verkauft"
+  },
+  {
+    "id": "hard-076",
+    "level": "hard",
+    "text": "Ein Werbespruch für eine Behörde im Märchenland"
+  },
+  {
+    "id": "hard-077",
+    "level": "hard",
+    "text": "Eine Sache, die man einem Klon zuerst verbieten müsste"
+  },
+  {
+    "id": "hard-078",
+    "level": "hard",
+    "text": "Ein Titel für ein Drama über einen leeren Akku"
+  },
+  {
+    "id": "hard-079",
+    "level": "hard",
+    "text": "Ein alltäglicher Satz mit überraschend viel philosophischem Gewicht"
+  },
+  {
+    "id": "hard-080",
+    "level": "hard",
+    "text": "Ein Grund für ein Missverständnis zwischen zwei Kristallkugeln"
+  },
+  {
+    "id": "hard-081",
+    "level": "hard",
+    "text": "Eine Sache, die ein Gewitter persönlich nehmen könnte"
+  },
+  {
+    "id": "hard-082",
+    "level": "hard",
+    "text": "Ein Name für eine Dating-App für verlorene Gegenstände"
+  },
+  {
+    "id": "hard-083",
+    "level": "hard",
+    "text": "Ein Kompliment, das eine Maschine beleidigen würde"
+  },
+  {
+    "id": "hard-084",
+    "level": "hard",
+    "text": "Ein Gesetz in einer Welt, in der Träume steuerpflichtig sind"
+  },
+  {
+    "id": "hard-085",
+    "level": "hard",
+    "text": "Eine Sache, die man aus Höflichkeit für Kunst hält"
+  },
+  {
+    "id": "hard-086",
+    "level": "hard",
+    "text": "Ein Streitgrund auf dem Betriebsausflug der sieben Wochentage"
+  },
+  {
+    "id": "hard-087",
+    "level": "hard",
+    "text": "Ein Gegenstand, der ein Hochstapler-Syndrom haben könnte"
+  },
+  {
+    "id": "hard-088",
+    "level": "hard",
+    "text": "Ein schlechter Betreff für eine Nachricht vom Universum"
+  },
+  {
+    "id": "hard-089",
+    "level": "hard",
+    "text": "Ein Grund, warum sich ein Echo selbstständig macht"
+  },
+  {
+    "id": "hard-090",
+    "level": "hard",
+    "text": "Eine Sache, die nach einem sehr kleinen Triumph klingt"
+  },
+  {
+    "id": "hard-091",
+    "level": "hard",
+    "text": "Ein Name für ein Ministerium der unnötigen Umwege"
+  },
+  {
+    "id": "hard-092",
+    "level": "hard",
+    "text": "Ein Luxusartikel für den inneren Kritiker"
+  },
+  {
+    "id": "hard-093",
+    "level": "hard",
+    "text": "Ein Moment, in dem die Hintergrundmusik kündigen würde"
+  },
+  {
+    "id": "hard-094",
+    "level": "hard",
+    "text": "Ein Problem einer Selbsthilfegruppe für Glücksbringer"
+  },
+  {
+    "id": "hard-095",
+    "level": "hard",
+    "text": "Eine Sache, die im Wörterbuch der Zukunft fehlt"
+  },
+  {
+    "id": "hard-096",
+    "level": "hard",
+    "text": "Ein Titel für einen Ratgeber über gepflegtes Scheitern"
+  },
+  {
+    "id": "hard-097",
+    "level": "hard",
+    "text": "Eine Eigenschaft, die ein Montag im Bewerbungsgespräch nennt"
+  },
+  {
+    "id": "hard-098",
+    "level": "hard",
+    "text": "Ein Grund, warum ein Wunschbrunnen streiken würde"
+  },
+  {
+    "id": "hard-099",
+    "level": "hard",
+    "text": "Eine Sache, die man dem eigenen Mut auf die Mailbox spricht"
+  },
+  {
+    "id": "hard-100",
+    "level": "hard",
+    "text": "Ein letzter Gedanke einer Seifenblase vor dem Platzen"
+  }
+]
