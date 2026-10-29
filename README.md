@@ -1,20 +1,21 @@
 # kopfsalat.
 
-Ein Partyspiel mit 300 Themen, drei Schwierigkeitsstufen und fertigen Dylan-Sprachaufnahmen aus lokalem Qwen3-TTS. Für einen gemeinsamen Bildschirm, besonders im Tablet-Querformat.
+Ein Partyspiel mit 900 Themen, drei Schwierigkeitsstufen und fertigen Dylan-Sprachaufnahmen aus lokalem Qwen3-TTS. Für einen gemeinsamen Bildschirm, besonders im Tablet-Querformat.
 
 ![Kopfsalat auf dem Tablet](docs/tablet-preview.png)
 
 ## Spielen
 
-3–8 Personen, Papier und Stifte. Alle notieren heimlich drei unterschiedliche Antworten zum Thema. Jede eigene Antwort, die mindestens eine weitere Person ebenfalls hat, gibt einen Punkt – höchstens drei Punkte pro Person und Thema. Sinngleiche Begriffe zählen nach gemeinsamer Absprache. Nach zehn Themen gewinnt die höchste Punktzahl; bei Gleichstand gewinnt ihr gemeinsam. Empfohlen ab zehn Jahren.
+3–8 Personen, Papier und Stifte. Alle notieren heimlich vier unterschiedliche Antworten zum Thema. Jede eigene Antwort, die mindestens eine weitere Person ebenfalls hat, gibt einen Punkt – höchstens vier Punkte pro Person und Thema. Sinngleiche Begriffe zählen nach gemeinsamer Absprache. Nach zehn Themen gewinnt die höchste Punktzahl; bei Gleichstand gewinnt ihr gemeinsam. Empfohlen ab zehn Jahren.
 
-- **Locker / Schräg / Verkopft:** jeweils 100 Themen, zufällig und ohne Wiederholung bis zum Stapelende.
+- **Locker / Schräg / Verkopft:** jeweils 300 Themen, zufällig und ohne Wiederholung bis zum Stapelende.
+- **Satzanfänge:** Bei „…“ schreibt jede Person vier unterschiedliche Ergänzungen auf; kurze Begriffe reichen. Über alle Kategorien verteilt gibt es 211 solcher Karten.
 - **Weiter:** nächste Karte. **Vorlesen:** Dylan starten oder stoppen. **Auto-Vorlesen:** neue Karten automatisch vorlesen.
 - **Mischen:** nur den aktuellen Stapel zurücksetzen.
 - **Vollbild:** echtes Browser-Vollbild ein- und ausschalten. Escape beendet Vollbild auf dem Desktop. Browser ohne Vollbildunterstützung zeigen einen Hinweis.
 - **?:** kurze Spielregeln.
 
-Antworten und Punkte notiert ihr auf Papier. Fortschritt und Vorleseeinstellung bleiben im lokalen Browserspeicher. Bei gesperrtem Speicher funktioniert das Spiel ohne dauerhafte Speicherung. Ton beginnt erst nach einer Interaktion.
+Antworten und Punkte notiert ihr auf Papier. Fortschritt und Vorleseeinstellung bleiben im lokalen Browserspeicher. Gespeicherte Stapel aus der Version mit 100 Themen werden beim ersten Start neu gemischt; Kategorie und Vorleseeinstellung bleiben erhalten. Bei gesperrtem Speicher funktioniert das Spiel ohne dauerhafte Speicherung. Ton beginnt erst nach einer Interaktion.
 
 ## Lokal starten
 
@@ -51,7 +52,7 @@ Nach Änderungen an `app.js`, `game.js` oder `topics.json` **`npm run build`** a
 | `index.html`, `style.css` | Oberfläche |
 | `app.js` | Bedienung, Vollbild und Wiedergabe |
 | `game.js` | Stapellogik und Validierung |
-| `topics.json` | 100 eindeutige Themen je Stufe mit stabilen IDs |
+| `topics.json` | 300 eindeutige Themen je Stufe mit stabilen IDs |
 | `app.bundle.js` | Generiertes Startskript inklusive Themen |
 | `assets/audio/` | Eine MP3 je Themen-ID |
 | `scripts/`, `tests/` | Build, Audiowerkzeuge und Tests |
@@ -66,7 +67,7 @@ python3 scripts/generate_audio.py --limit 3  # Kleine Stichprobe
 python3 scripts/generate_audio.py --force    # Alle neu erzeugen
 ```
 
-Ein anderer Dienstpfad lässt sich mit `--endpoint URL` setzen. Die Erzeugung läuft nacheinander, wiederholt fehlgeschlagene Anfragen und normalisiert die MP3-Dateien auf −16 LUFS. Textänderungen brauchen neue Aufnahmen. Vorhandene Dateien werden ohne `--force` übersprungen. `npm run check:audio` prüft die Vollständigkeit, nicht die Aussprachequalität.
+Ein anderer Dienstpfad lässt sich mit `--endpoint URL` setzen. Die Erzeugung läuft nacheinander, wiederholt fehlgeschlagene Anfragen und normalisiert die MP3-Dateien auf −16 LUFS. Satzanfänge werden mit „Ergänze den Satz“ angekündigt. Textänderungen brauchen neue Aufnahmen. Vorhandene Dateien werden ohne `--force` übersprungen. `npm run check:audio` prüft die Vollständigkeit, nicht die Aussprachequalität.
 
 ## Bedienung und Datenschutz
 

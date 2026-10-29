@@ -26,6 +26,8 @@ def main():
         if target.exists() and target.stat().st_size > 1000 and not args.force:
             continue
         text = topic['text'].strip()
+        if text.endswith('...'):
+            text = 'Ergänze den Satz: ' + text[:-3].rstrip() + '.'
         if not text.endswith(('.', '?', '!')):
             text += '.'
         payload = json.dumps(dict(model='qwen3-tts', input=text, voice='dylan',
@@ -41,7 +43,7 @@ def main():
                     raw.flush()
                     temp = target.with_suffix('.tmp.mp3')
                     subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', raw.name,
-                        '-af', 'loudnorm=I=-16:TP=-1.5:LRA=11', '-ac', '1', '-ar', '24000',
+                        '-map_metadata', '-1', '-af', 'loudnorm=I=-16:TP=-1.5:LRA=11', '-ac', '1', '-ar', '24000',
                         '-b:a', '64k', str(temp)], check=True)
                     if temp.stat().st_size < 1000:
                         raise ValueError('Audio file is empty')

@@ -25,7 +25,7 @@ export function validDeck(deck, topics, level) {
 }
 
 export function validateTopics(topics) {
-  if (!Array.isArray(topics) || topics.length !== 300) throw new Error('Es werden 300 Themen benötigt.');
+  if (!Array.isArray(topics) || topics.length !== 900) throw new Error('Es werden 900 Themen benötigt.');
   const texts = new Set();
   const ids = new Set();
   for (const topic of topics) {
@@ -37,7 +37,7 @@ export function validateTopics(topics) {
     texts.add(topic.text);
   }
   for (const level of Object.keys(LEVELS)) {
-    if (topics.filter(topic => topic.level === level).length !== 100) throw new Error('Jede Stufe benötigt 100 Themen.');
+    if (topics.filter(topic => topic.level === level).length !== 300) throw new Error('Jede Stufe benötigt 300 Themen.');
   }
   return topics;
 }

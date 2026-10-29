@@ -500,6 +500,1006 @@
     "text": "Ein Tier, das als Maskottchen gute Laune macht"
   },
   {
+    "id": "easy-101",
+    "level": "easy",
+    "text": "Die Erde ist ..."
+  },
+  {
+    "id": "easy-102",
+    "level": "easy",
+    "text": "Mein Kühlschrank ist voller ..."
+  },
+  {
+    "id": "easy-103",
+    "level": "easy",
+    "text": "Ein perfekter Sonntag beginnt mit ..."
+  },
+  {
+    "id": "easy-104",
+    "level": "easy",
+    "text": "Hinter dem Sofa liegt ..."
+  },
+  {
+    "id": "easy-105",
+    "level": "easy",
+    "text": "Mein Hund hält mich für ..."
+  },
+  {
+    "id": "easy-106",
+    "level": "easy",
+    "text": "Das Beste an einem Regentag ist ..."
+  },
+  {
+    "id": "easy-107",
+    "level": "easy",
+    "text": "In meiner Schultüte war bestimmt ..."
+  },
+  {
+    "id": "easy-108",
+    "level": "easy",
+    "text": "Wenn niemand zuschaut, esse ich ..."
+  },
+  {
+    "id": "easy-109",
+    "level": "easy",
+    "text": "Der Sommer riecht nach ..."
+  },
+  {
+    "id": "easy-110",
+    "level": "easy",
+    "text": "In einer geheimen Schublade verstecke ich ..."
+  },
+  {
+    "id": "easy-111",
+    "level": "easy",
+    "text": "Ein guter Nachbar leiht dir ..."
+  },
+  {
+    "id": "easy-112",
+    "level": "easy",
+    "text": "Auf eine Pizza gehört unbedingt ..."
+  },
+  {
+    "id": "easy-113",
+    "level": "easy",
+    "text": "Im Dunkeln verwechsle ich alles mit ..."
+  },
+  {
+    "id": "easy-114",
+    "level": "easy",
+    "text": "Mein Wecker klingt wie ..."
+  },
+  {
+    "id": "easy-115",
+    "level": "easy",
+    "text": "Ein Regentropfen landet ausgerechnet auf ..."
+  },
+  {
+    "id": "easy-116",
+    "level": "easy",
+    "text": "Mein Traumhaus hat einen Raum nur für ..."
+  },
+  {
+    "id": "easy-117",
+    "level": "easy",
+    "text": "Beim Warten an der Kasse denke ich an ..."
+  },
+  {
+    "id": "easy-118",
+    "level": "easy",
+    "text": "Mit Gummistiefeln kann man wunderbar ..."
+  },
+  {
+    "id": "easy-119",
+    "level": "easy",
+    "text": "Der schönste Platz im Garten ist neben ..."
+  },
+  {
+    "id": "easy-120",
+    "level": "easy",
+    "text": "Aus einem großen Karton baue ich ..."
+  },
+  {
+    "id": "easy-121",
+    "level": "easy",
+    "text": "Auf dem Dachboden entdecke ich ..."
+  },
+  {
+    "id": "easy-122",
+    "level": "easy",
+    "text": "Ein richtig guter Schneetag braucht ..."
+  },
+  {
+    "id": "easy-123",
+    "level": "easy",
+    "text": "Am Lagerfeuer erzählen wir von ..."
+  },
+  {
+    "id": "easy-124",
+    "level": "easy",
+    "text": "Der erste Bissen schmeckt nach ..."
+  },
+  {
+    "id": "easy-125",
+    "level": "easy",
+    "text": "Auf einem Familienfoto macht immer jemand ..."
+  },
+  {
+    "id": "easy-126",
+    "level": "easy",
+    "text": "Mein Glücksbringer sieht aus wie ..."
+  },
+  {
+    "id": "easy-127",
+    "level": "easy",
+    "text": "Ein leerer Schuhkarton eignet sich für ..."
+  },
+  {
+    "id": "easy-128",
+    "level": "easy",
+    "text": "Wenn ich König wäre, gäbe es täglich ..."
+  },
+  {
+    "id": "easy-129",
+    "level": "easy",
+    "text": "Eine überraschend gute Kombination ist ..."
+  },
+  {
+    "id": "easy-130",
+    "level": "easy",
+    "text": "Ein Papagei bei uns zu Hause würde ständig rufen: ..."
+  },
+  {
+    "id": "easy-131",
+    "level": "easy",
+    "text": "Auf meinem Geburtstagstisch steht ..."
+  },
+  {
+    "id": "easy-132",
+    "level": "easy",
+    "text": "Die beste Belohnung nach dem Aufräumen ist ..."
+  },
+  {
+    "id": "easy-133",
+    "level": "easy",
+    "text": "Ich erkenne einen Urlaubstag daran, dass ..."
+  },
+  {
+    "id": "easy-134",
+    "level": "easy",
+    "text": "Ein Nachmittag ohne Handy wäre voller ..."
+  },
+  {
+    "id": "easy-135",
+    "level": "easy",
+    "text": "In der Brotdose wartet ..."
+  },
+  {
+    "id": "easy-136",
+    "level": "easy",
+    "text": "Mit einer Taschenlampe suche ich ..."
+  },
+  {
+    "id": "easy-137",
+    "level": "easy",
+    "text": "Mein Fahrradkorb ist zu klein für ..."
+  },
+  {
+    "id": "easy-138",
+    "level": "easy",
+    "text": "Am meisten Krach macht bei uns ..."
+  },
+  {
+    "id": "easy-139",
+    "level": "easy",
+    "text": "Mit fünf Euro kaufe ich mir ..."
+  },
+  {
+    "id": "easy-140",
+    "level": "easy",
+    "text": "Wenn es schneit, denke ich sofort an ..."
+  },
+  {
+    "id": "easy-141",
+    "level": "easy",
+    "text": "Der Geruch von frischem Brot macht mich ..."
+  },
+  {
+    "id": "easy-142",
+    "level": "easy",
+    "text": "In einer riesigen Pfütze spiegelt sich ..."
+  },
+  {
+    "id": "easy-143",
+    "level": "easy",
+    "text": "Beim ersten Sonnenstrahl hole ich ..."
+  },
+  {
+    "id": "easy-144",
+    "level": "easy",
+    "text": "Ein Paket, das mich begeistert, enthält ..."
+  },
+  {
+    "id": "easy-145",
+    "level": "easy",
+    "text": "Mit einem freien Wunsch würde ich ..."
+  },
+  {
+    "id": "easy-146",
+    "level": "easy",
+    "text": "Im Aufzug schaue ich immer auf ..."
+  },
+  {
+    "id": "easy-147",
+    "level": "easy",
+    "text": "Im Freibad erkenne ich meine Freunde an ..."
+  },
+  {
+    "id": "easy-148",
+    "level": "easy",
+    "text": "Auf der Fensterbank wächst ..."
+  },
+  {
+    "id": "easy-149",
+    "level": "easy",
+    "text": "Eine gute Geschichte beginnt mit ..."
+  },
+  {
+    "id": "easy-150",
+    "level": "easy",
+    "text": "Wenn der Kuchen weg ist, bleibt noch ..."
+  },
+  {
+    "id": "easy-151",
+    "level": "easy",
+    "text": "Etwas, das beim Öffnen einer Chipstüte alle wach macht"
+  },
+  {
+    "id": "easy-152",
+    "level": "easy",
+    "text": "Ein Fundstück vom Spaziergang, das man unbedingt mitnimmt"
+  },
+  {
+    "id": "easy-153",
+    "level": "easy",
+    "text": "Was lässt sich besonders schlecht mit Handschuhen machen?"
+  },
+  {
+    "id": "easy-154",
+    "level": "easy",
+    "text": "Ein Tier, dessen Gang du sofort nachmachen könntest"
+  },
+  {
+    "id": "easy-155",
+    "level": "easy",
+    "text": "Ein Gegenstand, der unter dem Autositz wohnt"
+  },
+  {
+    "id": "easy-156",
+    "level": "easy",
+    "text": "Was kann man aus Schnee bauen, außer einem Schneemann?"
+  },
+  {
+    "id": "easy-157",
+    "level": "easy",
+    "text": "Eine Tätigkeit, bei der man die Zunge rausstreckt"
+  },
+  {
+    "id": "easy-158",
+    "level": "easy",
+    "text": "Etwas, das auf einer frisch geputzten Scheibe landet"
+  },
+  {
+    "id": "easy-159",
+    "level": "easy",
+    "text": "Ein Kostüm, das nur einen Bettbezug braucht"
+  },
+  {
+    "id": "easy-160",
+    "level": "easy",
+    "text": "Was würdest du in einem Laden voller Gratisproben probieren?"
+  },
+  {
+    "id": "easy-161",
+    "level": "easy",
+    "text": "Ein Grund, im Wohnzimmer zu tanzen"
+  },
+  {
+    "id": "easy-162",
+    "level": "easy",
+    "text": "Eine Sache, die man als Kind für unendlich teuer hielt"
+  },
+  {
+    "id": "easy-163",
+    "level": "easy",
+    "text": "Ein Essen, bei dem das Abschlecken dazugehört"
+  },
+  {
+    "id": "easy-164",
+    "level": "easy",
+    "text": "Was sammelt sich in Jackentaschen?"
+  },
+  {
+    "id": "easy-165",
+    "level": "easy",
+    "text": "Ein Gegenstand, den man als Türstopper benutzt"
+  },
+  {
+    "id": "easy-166",
+    "level": "easy",
+    "text": "Ein Ort, an dem das Echo Spaß macht"
+  },
+  {
+    "id": "easy-167",
+    "level": "easy",
+    "text": "Etwas, das man gern zerplatzen lässt"
+  },
+  {
+    "id": "easy-168",
+    "level": "easy",
+    "text": "Welche Form könnte eine besonders lustige Nudel haben?"
+  },
+  {
+    "id": "easy-169",
+    "level": "easy",
+    "text": "Ein Tier, das besonders dramatisch gähnt"
+  },
+  {
+    "id": "easy-170",
+    "level": "easy",
+    "text": "Eine Tätigkeit, die mit Musik viel schneller geht"
+  },
+  {
+    "id": "easy-171",
+    "level": "easy",
+    "text": "Etwas, das sich im Sand versteckt"
+  },
+  {
+    "id": "easy-172",
+    "level": "easy",
+    "text": "Was darf in einer gemütlichen Höhle aus Decken nicht fehlen?"
+  },
+  {
+    "id": "easy-173",
+    "level": "easy",
+    "text": "Ein Kleidungsstück mit viel zu vielen Taschen"
+  },
+  {
+    "id": "easy-174",
+    "level": "easy",
+    "text": "Ein Wort, das man einem Baby zuerst beibringen könnte"
+  },
+  {
+    "id": "easy-175",
+    "level": "easy",
+    "text": "Was sieht in einem winzigen Format besonders niedlich aus?"
+  },
+  {
+    "id": "easy-176",
+    "level": "easy",
+    "text": "Ein Ding, das man als Lesezeichen zweckentfremdet"
+  },
+  {
+    "id": "easy-177",
+    "level": "easy",
+    "text": "Eine Süßigkeit, die man nach Farben sortiert"
+  },
+  {
+    "id": "easy-178",
+    "level": "easy",
+    "text": "Was macht auf nassem Boden lustige Spuren?"
+  },
+  {
+    "id": "easy-179",
+    "level": "easy",
+    "text": "Ein Spiel für eine lange Warteschlange"
+  },
+  {
+    "id": "easy-180",
+    "level": "easy",
+    "text": "Ein Geräusch, das einen Hund neugierig macht"
+  },
+  {
+    "id": "easy-181",
+    "level": "easy",
+    "text": "Etwas, das sich beim Essen im Bart versteckt"
+  },
+  {
+    "id": "easy-182",
+    "level": "easy",
+    "text": "Ein Ort, an dem du gern einmal übernachten würdest"
+  },
+  {
+    "id": "easy-183",
+    "level": "easy",
+    "text": "Eine Sache, die beim Seifenblasenmachen schiefgeht"
+  },
+  {
+    "id": "easy-184",
+    "level": "easy",
+    "text": "Welches Obst wäre ein guter Ball?"
+  },
+  {
+    "id": "easy-185",
+    "level": "easy",
+    "text": "Etwas, das man nur mit spitzen Fingern anfasst"
+  },
+  {
+    "id": "easy-186",
+    "level": "easy",
+    "text": "Ein Souvenir, das man kostenlos am Wegesrand findet"
+  },
+  {
+    "id": "easy-187",
+    "level": "easy",
+    "text": "Ein Anlass für eine selbst gebastelte Medaille"
+  },
+  {
+    "id": "easy-188",
+    "level": "easy",
+    "text": "Was hängt man an einen besonders verrückten Weihnachtsbaum?"
+  },
+  {
+    "id": "easy-189",
+    "level": "easy",
+    "text": "Eine Beschäftigung für einen Stromausfall am Nachmittag"
+  },
+  {
+    "id": "easy-190",
+    "level": "easy",
+    "text": "Ein Tier, das auf einem Trampolin lustig aussähe"
+  },
+  {
+    "id": "easy-191",
+    "level": "easy",
+    "text": "Was liegt auf einem wirklich chaotischen Schreibtisch?"
+  },
+  {
+    "id": "easy-192",
+    "level": "easy",
+    "text": "Eine Sache, die überraschend schwer zu falten ist"
+  },
+  {
+    "id": "easy-193",
+    "level": "easy",
+    "text": "Ein Frühstück, das laut ist"
+  },
+  {
+    "id": "easy-194",
+    "level": "easy",
+    "text": "Was kann man auf eine beschlagene Scheibe malen?"
+  },
+  {
+    "id": "easy-195",
+    "level": "easy",
+    "text": "Ein Gegenstand, der ständig vom Tisch rollt"
+  },
+  {
+    "id": "easy-196",
+    "level": "easy",
+    "text": "Ein Geruch, den man sofort einem Ort zuordnen kann"
+  },
+  {
+    "id": "easy-197",
+    "level": "easy",
+    "text": "Etwas, das beim Schuheausziehen herausfällt"
+  },
+  {
+    "id": "easy-198",
+    "level": "easy",
+    "text": "Ein Spiel, für das man nur seine Hände braucht"
+  },
+  {
+    "id": "easy-199",
+    "level": "easy",
+    "text": "Was lässt man beim Buffet lieber nicht fallen?"
+  },
+  {
+    "id": "easy-200",
+    "level": "easy",
+    "text": "Eine Sache, die man vor einer langen Reise noch schnell macht"
+  },
+  {
+    "id": "easy-201",
+    "level": "easy",
+    "text": "Ein Tier als Kapitän eines Badewannenboots"
+  },
+  {
+    "id": "easy-202",
+    "level": "easy",
+    "text": "Ein lustiger Inhalt für eine Piñata"
+  },
+  {
+    "id": "easy-203",
+    "level": "easy",
+    "text": "Was würdest du mit einem meterlangen Löffel essen?"
+  },
+  {
+    "id": "easy-204",
+    "level": "easy",
+    "text": "Ein Gemüse, das als Telefon gut in der Hand liegt"
+  },
+  {
+    "id": "easy-205",
+    "level": "easy",
+    "text": "Eine neue Farbe für die Haare eines Clowns"
+  },
+  {
+    "id": "easy-206",
+    "level": "easy",
+    "text": "Was braucht eine Schnecke für einen gemütlichen Balkon?"
+  },
+  {
+    "id": "easy-207",
+    "level": "easy",
+    "text": "Ein Haustier aus dem Süßigkeitenregal"
+  },
+  {
+    "id": "easy-208",
+    "level": "easy",
+    "text": "Eine Zutat für den größten Eisbecher der Welt"
+  },
+  {
+    "id": "easy-209",
+    "level": "easy",
+    "text": "Was könnte ein Teddy in seinem Rucksack haben?"
+  },
+  {
+    "id": "easy-210",
+    "level": "easy",
+    "text": "Ein lustiges Muster für Gummistiefel"
+  },
+  {
+    "id": "easy-211",
+    "level": "easy",
+    "text": "Ein Essen, das man als Hut tragen könnte"
+  },
+  {
+    "id": "easy-212",
+    "level": "easy",
+    "text": "Was würde ein Pinguin im Strandurlaub kaufen?"
+  },
+  {
+    "id": "easy-213",
+    "level": "easy",
+    "text": "Ein guter Platz für eine winzige Tür"
+  },
+  {
+    "id": "easy-214",
+    "level": "easy",
+    "text": "Ein Tier, das mit Schluckauf besonders lustig wäre"
+  },
+  {
+    "id": "easy-215",
+    "level": "easy",
+    "text": "Was bekommt ein Kuscheltier zum Geburtstag?"
+  },
+  {
+    "id": "easy-216",
+    "level": "easy",
+    "text": "Ein Gegenstand, der in Riesengröße zum Spielplatz wird"
+  },
+  {
+    "id": "easy-217",
+    "level": "easy",
+    "text": "Ein Gemüse mit einem passenden Spitznamen"
+  },
+  {
+    "id": "easy-218",
+    "level": "easy",
+    "text": "Was könnte aus einem Brunnen sprudeln, außer Wasser?"
+  },
+  {
+    "id": "easy-219",
+    "level": "easy",
+    "text": "Ein Fahrzeug für eine Parade im Kinderzimmer"
+  },
+  {
+    "id": "easy-220",
+    "level": "easy",
+    "text": "Eine Süßigkeit als Baumaterial für ein Traumhaus"
+  },
+  {
+    "id": "easy-221",
+    "level": "easy",
+    "text": "Was würde eine Katze auf ihren Wunschzettel schreiben?"
+  },
+  {
+    "id": "easy-222",
+    "level": "easy",
+    "text": "Ein lustiges Geräusch für die Türklingel"
+  },
+  {
+    "id": "easy-223",
+    "level": "easy",
+    "text": "Ein Möbelstück, das auf Rollen Spaß machen würde"
+  },
+  {
+    "id": "easy-224",
+    "level": "easy",
+    "text": "Was könnte ein Zauberer aus seiner Socke ziehen?"
+  },
+  {
+    "id": "easy-225",
+    "level": "easy",
+    "text": "Ein Tier, das gut auf ein Familienwappen passt"
+  },
+  {
+    "id": "easy-226",
+    "level": "easy",
+    "text": "Ein Versteck für einen winzigen Drachen"
+  },
+  {
+    "id": "easy-227",
+    "level": "easy",
+    "text": "Was wäre ein guter Schwanz für einen selbst gebastelten Drachen?"
+  },
+  {
+    "id": "easy-228",
+    "level": "easy",
+    "text": "Ein Sportgerät, das man im Haushalt findet"
+  },
+  {
+    "id": "easy-229",
+    "level": "easy",
+    "text": "Eine Blume mit einem erfundenen, lustigen Namen"
+  },
+  {
+    "id": "easy-230",
+    "level": "easy",
+    "text": "Was gehört in die Lunchbox eines Riesen?"
+  },
+  {
+    "id": "easy-231",
+    "level": "easy",
+    "text": "Ein Strandfund, der wie ein Schatz aussieht"
+  },
+  {
+    "id": "easy-232",
+    "level": "easy",
+    "text": "Ein praktisches Geschenk für einen Schneemann"
+  },
+  {
+    "id": "easy-233",
+    "level": "easy",
+    "text": "Was würde ein Hund im Kino anschauen?"
+  },
+  {
+    "id": "easy-234",
+    "level": "easy",
+    "text": "Ein Gegenstand für ein Orchester aus Küchenzeug"
+  },
+  {
+    "id": "easy-235",
+    "level": "easy",
+    "text": "Eine neue Sorte Wolke, die du erfinden würdest"
+  },
+  {
+    "id": "easy-236",
+    "level": "easy",
+    "text": "Was könnte man in einem winzigen Schloss aufbewahren?"
+  },
+  {
+    "id": "easy-237",
+    "level": "easy",
+    "text": "Ein Tier als Maskottchen für einen Süßigkeitenladen"
+  },
+  {
+    "id": "easy-238",
+    "level": "easy",
+    "text": "Ein lustiger Ersatz für einen Spazierstock"
+  },
+  {
+    "id": "easy-239",
+    "level": "easy",
+    "text": "Was gehört auf eine Flagge für euer Sofa?"
+  },
+  {
+    "id": "easy-240",
+    "level": "easy",
+    "text": "Ein Obst, das beim Verkleiden als Nase taugt"
+  },
+  {
+    "id": "easy-241",
+    "level": "easy",
+    "text": "Ein Ort für einen Aufkleber, der alle zum Lachen bringt"
+  },
+  {
+    "id": "easy-242",
+    "level": "easy",
+    "text": "Was kann man in einem leeren Planschbecken sammeln?"
+  },
+  {
+    "id": "easy-243",
+    "level": "easy",
+    "text": "Ein Tier, dessen Pfotenabdruck auf ein T-Shirt gehört"
+  },
+  {
+    "id": "easy-244",
+    "level": "easy",
+    "text": "Ein seltsamer Passagier in einem Fahrradanhänger"
+  },
+  {
+    "id": "easy-245",
+    "level": "easy",
+    "text": "Was würdest du auf einer Waffelwolke mitnehmen?"
+  },
+  {
+    "id": "easy-246",
+    "level": "easy",
+    "text": "Eine Sache, die mit Wackelaugen sofort lustiger wird"
+  },
+  {
+    "id": "easy-247",
+    "level": "easy",
+    "text": "Ein passender Sitzplatz für eine müde Hummel"
+  },
+  {
+    "id": "easy-248",
+    "level": "easy",
+    "text": "Was könnte ein Marienkäfer als Regenschirm benutzen?"
+  },
+  {
+    "id": "easy-249",
+    "level": "easy",
+    "text": "Ein Geräusch für den Sieg bei einem Brettspiel"
+  },
+  {
+    "id": "easy-250",
+    "level": "easy",
+    "text": "Ein Name für einen besonders krümeligen Keks"
+  },
+  {
+    "id": "easy-251",
+    "level": "easy",
+    "text": "Wenn meine Schuhe reden könnten, würden sie sagen: ..."
+  },
+  {
+    "id": "easy-252",
+    "level": "easy",
+    "text": "Meine geheime Superkraft im Alltag ist ..."
+  },
+  {
+    "id": "easy-253",
+    "level": "easy",
+    "text": "Im Zelt höre ich nachts ..."
+  },
+  {
+    "id": "easy-254",
+    "level": "easy",
+    "text": "Ein Kuss vom Hund schmeckt wahrscheinlich nach ..."
+  },
+  {
+    "id": "easy-255",
+    "level": "easy",
+    "text": "Mein Lieblingspulli hat die Farbe von ..."
+  },
+  {
+    "id": "easy-256",
+    "level": "easy",
+    "text": "Die Ente im Park wartet auf ..."
+  },
+  {
+    "id": "easy-257",
+    "level": "easy",
+    "text": "In einer Schatzkarte markiere ich ..."
+  },
+  {
+    "id": "easy-258",
+    "level": "easy",
+    "text": "Mein erster Einkauf als Millionär wäre ..."
+  },
+  {
+    "id": "easy-259",
+    "level": "easy",
+    "text": "Auf dem Flohmarkt tausche ich meinen Wecker gegen ..."
+  },
+  {
+    "id": "easy-260",
+    "level": "easy",
+    "text": "Mein perfektes Baumhaus hat ..."
+  },
+  {
+    "id": "easy-261",
+    "level": "easy",
+    "text": "Eine Gabel ist völlig unpraktisch für ..."
+  },
+  {
+    "id": "easy-262",
+    "level": "easy",
+    "text": "Ein richtig fauler Tag endet mit ..."
+  },
+  {
+    "id": "easy-263",
+    "level": "easy",
+    "text": "Wenn mein Rucksack zu schwer ist, liegt das an ..."
+  },
+  {
+    "id": "easy-264",
+    "level": "easy",
+    "text": "Mein Schatten sieht heute aus wie ..."
+  },
+  {
+    "id": "easy-265",
+    "level": "easy",
+    "text": "Das schönste Geräusch am Morgen ist ..."
+  },
+  {
+    "id": "easy-266",
+    "level": "easy",
+    "text": "Auf einer Postkarte aus meinem Wohnzimmer steht: ..."
+  },
+  {
+    "id": "easy-267",
+    "level": "easy",
+    "text": "Beim Versteckspielen verrät mich ..."
+  },
+  {
+    "id": "easy-268",
+    "level": "easy",
+    "text": "Mit einem Eimer voll Kreide male ich ..."
+  },
+  {
+    "id": "easy-269",
+    "level": "easy",
+    "text": "Ein Tag im Schlafanzug braucht ..."
+  },
+  {
+    "id": "easy-270",
+    "level": "easy",
+    "text": "Wenn ich eine Wolke anfassen könnte, wäre sie ..."
+  },
+  {
+    "id": "easy-271",
+    "level": "easy",
+    "text": "Was schmeckt direkt vom Blech am besten?"
+  },
+  {
+    "id": "easy-272",
+    "level": "easy",
+    "text": "Ein Gegenstand, den man beim Telefonieren bekritzelt"
+  },
+  {
+    "id": "easy-273",
+    "level": "easy",
+    "text": "Eine Sache, die im Herbst unter den Füßen knistert"
+  },
+  {
+    "id": "easy-274",
+    "level": "easy",
+    "text": "Was kann man im Park wunderbar beobachten?"
+  },
+  {
+    "id": "easy-275",
+    "level": "easy",
+    "text": "Ein Geräusch, das man mit dem Mund nachmachen kann"
+  },
+  {
+    "id": "easy-276",
+    "level": "easy",
+    "text": "Ein Gegenstand, der im Sommer zu heiß zum Anfassen wird"
+  },
+  {
+    "id": "easy-277",
+    "level": "easy",
+    "text": "Was eignet sich für eine Krone aus dem Garten?"
+  },
+  {
+    "id": "easy-278",
+    "level": "easy",
+    "text": "Ein Essen, das auf einem Spieß besser schmeckt"
+  },
+  {
+    "id": "easy-279",
+    "level": "easy",
+    "text": "Eine Beschäftigung für einen Tag am See"
+  },
+  {
+    "id": "easy-280",
+    "level": "easy",
+    "text": "Was macht man, um auf einem Foto größer zu wirken?"
+  },
+  {
+    "id": "easy-281",
+    "level": "easy",
+    "text": "Ein Tier, das man an einem einzigen Körperteil erkennt"
+  },
+  {
+    "id": "easy-282",
+    "level": "easy",
+    "text": "Ein guter Grund, jemandem eine kleine Freude zu machen"
+  },
+  {
+    "id": "easy-283",
+    "level": "easy",
+    "text": "Was kann man aus einer alten Zeitung falten?"
+  },
+  {
+    "id": "easy-284",
+    "level": "easy",
+    "text": "Eine Sache, die beim Schaukeln aus der Tasche fliegt"
+  },
+  {
+    "id": "easy-285",
+    "level": "easy",
+    "text": "Ein Ort, an dem ein Luftballon hängen bleibt"
+  },
+  {
+    "id": "easy-286",
+    "level": "easy",
+    "text": "Was passt in eine Streichholzschachtel?"
+  },
+  {
+    "id": "easy-287",
+    "level": "easy",
+    "text": "Ein Küchenwerkzeug für eine Sandburg"
+  },
+  {
+    "id": "easy-288",
+    "level": "easy",
+    "text": "Ein lustiger Name für ein Kinderzimmer"
+  },
+  {
+    "id": "easy-289",
+    "level": "easy",
+    "text": "Was würde man gern in einem Überraschungsei finden?"
+  },
+  {
+    "id": "easy-290",
+    "level": "easy",
+    "text": "Etwas, das beim Trinken einen Bart macht"
+  },
+  {
+    "id": "easy-291",
+    "level": "easy",
+    "text": "Eine Tätigkeit, für die man auf einen Hocker steigt"
+  },
+  {
+    "id": "easy-292",
+    "level": "easy",
+    "text": "Was ist schön anzusehen, aber schwer zu fotografieren?"
+  },
+  {
+    "id": "easy-293",
+    "level": "easy",
+    "text": "Ein kleines Abenteuer auf dem Heimweg"
+  },
+  {
+    "id": "easy-294",
+    "level": "easy",
+    "text": "Ein Gegenstand, den man mit den Zehen aufheben kann"
+  },
+  {
+    "id": "easy-295",
+    "level": "easy",
+    "text": "Was raschelt verdächtig in einer Einkaufstüte?"
+  },
+  {
+    "id": "easy-296",
+    "level": "easy",
+    "text": "Eine Sache, die nach einem Fest auf dem Boden liegt"
+  },
+  {
+    "id": "easy-297",
+    "level": "easy",
+    "text": "Ein Spiel, bei dem Erwachsene plötzlich ehrgeizig werden"
+  },
+  {
+    "id": "easy-298",
+    "level": "easy",
+    "text": "Was kann man mit einem riesigen Haufen Kissen machen?"
+  },
+  {
+    "id": "easy-299",
+    "level": "easy",
+    "text": "Ein Ort für eine selbst gebastelte Fahne"
+  },
+  {
+    "id": "easy-300",
+    "level": "easy",
+    "text": "Eine Kleinigkeit, über die man noch abends lächelt"
+  },
+  {
     "id": "medium-001",
     "level": "medium",
     "text": "Gegen welches Tier würde ein Kampf knapp ausgehen?"
@@ -1000,6 +2000,1006 @@
     "text": "Eine Erfindung, die den Montag erträglicher macht"
   },
   {
+    "id": "medium-101",
+    "level": "medium",
+    "text": "Die Erde ist eigentlich nur ..."
+  },
+  {
+    "id": "medium-102",
+    "level": "medium",
+    "text": "Mein Kühlschrank verlangt neuerdings ..."
+  },
+  {
+    "id": "medium-103",
+    "level": "medium",
+    "text": "Der Drache hat heute Feuerverbot, weil ..."
+  },
+  {
+    "id": "medium-104",
+    "level": "medium",
+    "text": "Als unsichtbarer Mensch scheitere ich an ..."
+  },
+  {
+    "id": "medium-105",
+    "level": "medium",
+    "text": "Die Außerirdischen sind wieder abgereist, weil ..."
+  },
+  {
+    "id": "medium-106",
+    "level": "medium",
+    "text": "Im Fundbüro für Zauberer liegt ..."
+  },
+  {
+    "id": "medium-107",
+    "level": "medium",
+    "text": "Mein Spiegelbild macht heimlich ..."
+  },
+  {
+    "id": "medium-108",
+    "level": "medium",
+    "text": "Die Geisterbahn schließt heute wegen ..."
+  },
+  {
+    "id": "medium-109",
+    "level": "medium",
+    "text": "Ein Pirat sagt beim Zahnarzt: ..."
+  },
+  {
+    "id": "medium-110",
+    "level": "medium",
+    "text": "Der neue Nachbar ist eindeutig ein Roboter, denn ..."
+  },
+  {
+    "id": "medium-111",
+    "level": "medium",
+    "text": "In meiner geheimen Unterwasserbasis fehlt ..."
+  },
+  {
+    "id": "medium-112",
+    "level": "medium",
+    "text": "Die Königin hat ihre Krone getauscht gegen ..."
+  },
+  {
+    "id": "medium-113",
+    "level": "medium",
+    "text": "Mein Haustier hat eine Firma gegründet für ..."
+  },
+  {
+    "id": "medium-114",
+    "level": "medium",
+    "text": "Der Fahrstuhl zur Hölle hält heute bei ..."
+  },
+  {
+    "id": "medium-115",
+    "level": "medium",
+    "text": "Auf dem Mond gibt es endlich ..."
+  },
+  {
+    "id": "medium-116",
+    "level": "medium",
+    "text": "Der Flaschengeist berechnet extra für ..."
+  },
+  {
+    "id": "medium-117",
+    "level": "medium",
+    "text": "Mein Besen fliegt nur, wenn ..."
+  },
+  {
+    "id": "medium-118",
+    "level": "medium",
+    "text": "Im Märchenwald gibt es ein neues Verbot für ..."
+  },
+  {
+    "id": "medium-119",
+    "level": "medium",
+    "text": "Der Superheld kommt zu spät, weil ..."
+  },
+  {
+    "id": "medium-120",
+    "level": "medium",
+    "text": "Mein Toaster ist eifersüchtig auf ..."
+  },
+  {
+    "id": "medium-121",
+    "level": "medium",
+    "text": "Als Ersatz für ihre Bandagen benutzt die Mumie ..."
+  },
+  {
+    "id": "medium-122",
+    "level": "medium",
+    "text": "Ein Werwolf kauft im Drogeriemarkt ..."
+  },
+  {
+    "id": "medium-123",
+    "level": "medium",
+    "text": "Auf dem Piratenschiff gibt es Streit um ..."
+  },
+  {
+    "id": "medium-124",
+    "level": "medium",
+    "text": "Die Zeitmaschine riecht verdächtig nach ..."
+  },
+  {
+    "id": "medium-125",
+    "level": "medium",
+    "text": "Mein Klon weigert sich, ..."
+  },
+  {
+    "id": "medium-126",
+    "level": "medium",
+    "text": "In der Schule für Monster bekommt man Noten für ..."
+  },
+  {
+    "id": "medium-127",
+    "level": "medium",
+    "text": "Der Schneemann hat einen Nebenjob als ..."
+  },
+  {
+    "id": "medium-128",
+    "level": "medium",
+    "text": "Das letzte Missgeschick der Hexe war ..."
+  },
+  {
+    "id": "medium-129",
+    "level": "medium",
+    "text": "Ein Oktopus braucht acht Hände für ..."
+  },
+  {
+    "id": "medium-130",
+    "level": "medium",
+    "text": "Die Gartenzwerge planen nachts ..."
+  },
+  {
+    "id": "medium-131",
+    "level": "medium",
+    "text": "Das Passwort zur Drachenhöhle lautet: ..."
+  },
+  {
+    "id": "medium-132",
+    "level": "medium",
+    "text": "Im Raumschiff gilt ab sofort die Regel: ..."
+  },
+  {
+    "id": "medium-133",
+    "level": "medium",
+    "text": "Mein Schutzengel hat Angst vor ..."
+  },
+  {
+    "id": "medium-134",
+    "level": "medium",
+    "text": "Das Gespenst unter meinem Bett beschwert sich über ..."
+  },
+  {
+    "id": "medium-135",
+    "level": "medium",
+    "text": "Die Meerjungfrau bestellt im Internet ..."
+  },
+  {
+    "id": "medium-136",
+    "level": "medium",
+    "text": "Unser Familienauto träumt von ..."
+  },
+  {
+    "id": "medium-137",
+    "level": "medium",
+    "text": "Der sprechende Hut verrät ständig ..."
+  },
+  {
+    "id": "medium-138",
+    "level": "medium",
+    "text": "Ein Alien hält unsere Waschmaschine für ..."
+  },
+  {
+    "id": "medium-139",
+    "level": "medium",
+    "text": "Der Ritter hat seinen Helm vergessen und trägt ..."
+  },
+  {
+    "id": "medium-140",
+    "level": "medium",
+    "text": "Mein Zaubertrank wirkt nur bei ..."
+  },
+  {
+    "id": "medium-141",
+    "level": "medium",
+    "text": "Das Einhorn hat sein Horn dekoriert mit ..."
+  },
+  {
+    "id": "medium-142",
+    "level": "medium",
+    "text": "Im Dinosauriermuseum bewegt sich plötzlich ..."
+  },
+  {
+    "id": "medium-143",
+    "level": "medium",
+    "text": "Der Bösewicht scheitert immer an ..."
+  },
+  {
+    "id": "medium-144",
+    "level": "medium",
+    "text": "Das Monster im Schrank braucht dringend ..."
+  },
+  {
+    "id": "medium-145",
+    "level": "medium",
+    "text": "Meine Gedankenlesebrille zeigt nur ..."
+  },
+  {
+    "id": "medium-146",
+    "level": "medium",
+    "text": "Beim Fliegen auf einem Drachen muss man aufpassen auf ..."
+  },
+  {
+    "id": "medium-147",
+    "level": "medium",
+    "text": "Der Froschkönig will lieber ..."
+  },
+  {
+    "id": "medium-148",
+    "level": "medium",
+    "text": "Meine Zimmerpflanze übernimmt die Macht über ..."
+  },
+  {
+    "id": "medium-149",
+    "level": "medium",
+    "text": "Die Schatztruhe lässt sich nur öffnen mit ..."
+  },
+  {
+    "id": "medium-150",
+    "level": "medium",
+    "text": "Der Mond hat sich krankgemeldet wegen ..."
+  },
+  {
+    "id": "medium-151",
+    "level": "medium",
+    "text": "Ein peinlicher Klingelton für einen Superschurken"
+  },
+  {
+    "id": "medium-152",
+    "level": "medium",
+    "text": "Was bestellt ein Vampir beim Lieferservice?"
+  },
+  {
+    "id": "medium-153",
+    "level": "medium",
+    "text": "Eine Freizeitbeschäftigung für einen gelangweilten Vulkan"
+  },
+  {
+    "id": "medium-154",
+    "level": "medium",
+    "text": "Ein Warnschild am Eingang eines Wolkenschlosses"
+  },
+  {
+    "id": "medium-155",
+    "level": "medium",
+    "text": "Was könnte ein Zauberstab statt Funken versprühen?"
+  },
+  {
+    "id": "medium-156",
+    "level": "medium",
+    "text": "Ein Grund, warum ein Zombie beim Sport disqualifiziert wird"
+  },
+  {
+    "id": "medium-157",
+    "level": "medium",
+    "text": "Ein schlechter Ort, um plötzlich drei Meter groß zu werden"
+  },
+  {
+    "id": "medium-158",
+    "level": "medium",
+    "text": "Was erfindet eine Katze, um Menschen zu beschäftigen?"
+  },
+  {
+    "id": "medium-159",
+    "level": "medium",
+    "text": "Eine Schlagzeile in der Schülerzeitung einer Hexenschule"
+  },
+  {
+    "id": "medium-160",
+    "level": "medium",
+    "text": "Ein unangenehmer Moment für einen sprechenden Bauch"
+  },
+  {
+    "id": "medium-161",
+    "level": "medium",
+    "text": "Was beschlagnahmt der Zoll am Flughafen für Feen?"
+  },
+  {
+    "id": "medium-162",
+    "level": "medium",
+    "text": "Ein Beruf, bei dem ein unsichtbarer Kollege nervt"
+  },
+  {
+    "id": "medium-163",
+    "level": "medium",
+    "text": "Eine Bitte auf dem Wunschzettel eines Vulkans"
+  },
+  {
+    "id": "medium-164",
+    "level": "medium",
+    "text": "Was darf ein Zauberlehrling nicht in die Mikrowelle legen?"
+  },
+  {
+    "id": "medium-165",
+    "level": "medium",
+    "text": "Ein Gegenstand, mit dem sich ein Spukhaus gemütlich einrichtet"
+  },
+  {
+    "id": "medium-166",
+    "level": "medium",
+    "text": "Eine Disziplin bei den Weltmeisterschaften der Schnecken"
+  },
+  {
+    "id": "medium-167",
+    "level": "medium",
+    "text": "Was verliert ein Riese zwischen seinen Sofakissen?"
+  },
+  {
+    "id": "medium-168",
+    "level": "medium",
+    "text": "Eine Panne bei einer Hochzeit unter Wasser"
+  },
+  {
+    "id": "medium-169",
+    "level": "medium",
+    "text": "Ein Verkaufsschlager im Supermarkt für Geister"
+  },
+  {
+    "id": "medium-170",
+    "level": "medium",
+    "text": "Was könnte ein sehr höflicher Drache statt Feuer spucken?"
+  },
+  {
+    "id": "medium-171",
+    "level": "medium",
+    "text": "Ein Gegenstand, den ein Zeitreisender im Mittelalter erklären muss"
+  },
+  {
+    "id": "medium-172",
+    "level": "medium",
+    "text": "Ein Grund für eine schlechte Bewertung einer Hexenküche"
+  },
+  {
+    "id": "medium-173",
+    "level": "medium",
+    "text": "Was bringt ein Alien zum Elternabend mit?"
+  },
+  {
+    "id": "medium-174",
+    "level": "medium",
+    "text": "Ein ungewöhnlicher Lehrstoff in der Piratenschule"
+  },
+  {
+    "id": "medium-175",
+    "level": "medium",
+    "text": "Ein Sport, bei dem ein Zentaur unfair im Vorteil wäre"
+  },
+  {
+    "id": "medium-176",
+    "level": "medium",
+    "text": "Was möchte der Monsterjäger lieber nicht im Urlaubskoffer finden?"
+  },
+  {
+    "id": "medium-177",
+    "level": "medium",
+    "text": "Eine Sache, die eine Fee zur Reparatur abgibt"
+  },
+  {
+    "id": "medium-178",
+    "level": "medium",
+    "text": "Ein Ablenkungsmanöver für einen Wachhund aus Wackelpudding"
+  },
+  {
+    "id": "medium-179",
+    "level": "medium",
+    "text": "Was hängt in der Garderobe eines Schlossgespensts?"
+  },
+  {
+    "id": "medium-180",
+    "level": "medium",
+    "text": "Ein Grund, warum der Osterhase beim Versteckspielen verliert"
+  },
+  {
+    "id": "medium-181",
+    "level": "medium",
+    "text": "Ein schlechter Moment, wenn plötzlich alle Tiere sprechen"
+  },
+  {
+    "id": "medium-182",
+    "level": "medium",
+    "text": "Was könnte in einem Dschungelhotel als Wecker dienen?"
+  },
+  {
+    "id": "medium-183",
+    "level": "medium",
+    "text": "Eine neue Funktion für einen fliegenden Teppich"
+  },
+  {
+    "id": "medium-184",
+    "level": "medium",
+    "text": "Ein unpassendes Hobby für einen feuerspeienden Drachen"
+  },
+  {
+    "id": "medium-185",
+    "level": "medium",
+    "text": "Was steht im Kleingedruckten einer Meerjungfrauenreise?"
+  },
+  {
+    "id": "medium-186",
+    "level": "medium",
+    "text": "Ein Gegenstand, den man in einem Museum für Monster vermisst"
+  },
+  {
+    "id": "medium-187",
+    "level": "medium",
+    "text": "Eine Beschwerde bei der Hotline für Zauberunfälle"
+  },
+  {
+    "id": "medium-188",
+    "level": "medium",
+    "text": "Was könnte eine Rakete als Ersatztreibstoff benutzen?"
+  },
+  {
+    "id": "medium-189",
+    "level": "medium",
+    "text": "Ein Mitbringsel vom Flohmarkt auf dem Mars"
+  },
+  {
+    "id": "medium-190",
+    "level": "medium",
+    "text": "Ein Verbot auf einem Spielplatz für Riesen"
+  },
+  {
+    "id": "medium-191",
+    "level": "medium",
+    "text": "Was benutzt ein Oktopus als Ausrede fürs Zuspätkommen?"
+  },
+  {
+    "id": "medium-192",
+    "level": "medium",
+    "text": "Ein ungeeignetes Versteck für einen Superheldenumhang"
+  },
+  {
+    "id": "medium-193",
+    "level": "medium",
+    "text": "Eine Sache, die ein Schneemann vor dem Urlaub erledigt"
+  },
+  {
+    "id": "medium-194",
+    "level": "medium",
+    "text": "Was verliert ein Magier ständig in seinen Ärmeln?"
+  },
+  {
+    "id": "medium-195",
+    "level": "medium",
+    "text": "Ein Problem beim Umzug in ein Lebkuchenhaus"
+  },
+  {
+    "id": "medium-196",
+    "level": "medium",
+    "text": "Ein Tier, das einen Bösewicht durch bloße Anwesenheit entwaffnet"
+  },
+  {
+    "id": "medium-197",
+    "level": "medium",
+    "text": "Was verkauft ein Kobold an einer Autobahnraststätte?"
+  },
+  {
+    "id": "medium-198",
+    "level": "medium",
+    "text": "Eine seltsame Fundmeldung aus einem versunkenen Schloss"
+  },
+  {
+    "id": "medium-199",
+    "level": "medium",
+    "text": "Ein Geräusch, das einen Drachen erschreckt"
+  },
+  {
+    "id": "medium-200",
+    "level": "medium",
+    "text": "Was trägt man zu einem Vorstellungsgespräch bei den Wikingern?"
+  },
+  {
+    "id": "medium-201",
+    "level": "medium",
+    "text": "Eine enttäuschende Funktion eines sehr teuren Zauberrings"
+  },
+  {
+    "id": "medium-202",
+    "level": "medium",
+    "text": "Was passiert, wenn ein Trampolin Heimweh bekommt?"
+  },
+  {
+    "id": "medium-203",
+    "level": "medium",
+    "text": "Ein Gegenstand, der als Bürgermeister Wahlversprechen machen könnte"
+  },
+  {
+    "id": "medium-204",
+    "level": "medium",
+    "text": "Eine Durchsage in einem Zug voller Märchenfiguren"
+  },
+  {
+    "id": "medium-205",
+    "level": "medium",
+    "text": "Was würde ein Kaktus beim Friseur verlangen?"
+  },
+  {
+    "id": "medium-206",
+    "level": "medium",
+    "text": "Ein peinlicher Grund, warum ein Geheimagent auffliegt"
+  },
+  {
+    "id": "medium-207",
+    "level": "medium",
+    "text": "Eine Überraschung in der Bedienungsanleitung eines Portals"
+  },
+  {
+    "id": "medium-208",
+    "level": "medium",
+    "text": "Was macht ein Wetterfrosch an seinem freien Tag?"
+  },
+  {
+    "id": "medium-209",
+    "level": "medium",
+    "text": "Ein Gebäude, das als Hüpfburg katastrophal wäre"
+  },
+  {
+    "id": "medium-210",
+    "level": "medium",
+    "text": "Eine Sache, die in einem Restaurant mit Teleportation schiefgeht"
+  },
+  {
+    "id": "medium-211",
+    "level": "medium",
+    "text": "Was bewirbt ein Influencer aus der Steinzeit?"
+  },
+  {
+    "id": "medium-212",
+    "level": "medium",
+    "text": "Ein Beruf, den man mit Gänsehaut besonders gut ausübt"
+  },
+  {
+    "id": "medium-213",
+    "level": "medium",
+    "text": "Eine Verschwörungstheorie unter Staubflusen"
+  },
+  {
+    "id": "medium-214",
+    "level": "medium",
+    "text": "Was findet man in der Hosentasche des Weihnachtsmanns?"
+  },
+  {
+    "id": "medium-215",
+    "level": "medium",
+    "text": "Ein Nachteil, wenn man nur noch rückwärts laufen kann"
+  },
+  {
+    "id": "medium-216",
+    "level": "medium",
+    "text": "Eine Aufgabe für einen Butler aus Gummibärchen"
+  },
+  {
+    "id": "medium-217",
+    "level": "medium",
+    "text": "Was schreibt ein motzender Berg auf eine Postkarte?"
+  },
+  {
+    "id": "medium-218",
+    "level": "medium",
+    "text": "Ein Haushaltsgerät als besonders schlechter Babysitter"
+  },
+  {
+    "id": "medium-219",
+    "level": "medium",
+    "text": "Eine Mutprobe auf einem Kindergeburtstag für Gespenster"
+  },
+  {
+    "id": "medium-220",
+    "level": "medium",
+    "text": "Was gehört in einen Erste-Hilfe-Kasten für Roboter?"
+  },
+  {
+    "id": "medium-221",
+    "level": "medium",
+    "text": "Ein Grund, aus einem Chor der Sirenen geworfen zu werden"
+  },
+  {
+    "id": "medium-222",
+    "level": "medium",
+    "text": "Eine schlechte Tarnung für einen Elefanten im Porzellanladen"
+  },
+  {
+    "id": "medium-223",
+    "level": "medium",
+    "text": "Was könnte ein Geldautomat statt Scheinen ausspucken?"
+  },
+  {
+    "id": "medium-224",
+    "level": "medium",
+    "text": "Ein unerwarteter Gast bei der Teeparty im Puppenhaus"
+  },
+  {
+    "id": "medium-225",
+    "level": "medium",
+    "text": "Ein Streitpunkt in einer Wohngemeinschaft aus Gewürzen"
+  },
+  {
+    "id": "medium-226",
+    "level": "medium",
+    "text": "Was bewacht ein Drache, der kein Gold mag?"
+  },
+  {
+    "id": "medium-227",
+    "level": "medium",
+    "text": "Eine skurrile Attraktion auf einer Kirmes im All"
+  },
+  {
+    "id": "medium-228",
+    "level": "medium",
+    "text": "Ein Gegenstand, der beleidigt wäre, wenn man ihn ersetzt"
+  },
+  {
+    "id": "medium-229",
+    "level": "medium",
+    "text": "Was würde ein Räuber im Schlaraffenland stehlen?"
+  },
+  {
+    "id": "medium-230",
+    "level": "medium",
+    "text": "Eine alltägliche Aufgabe, die mit Saugnäpfen einfacher wäre"
+  },
+  {
+    "id": "medium-231",
+    "level": "medium",
+    "text": "Ein Laden, in dem ein Taschenmonster Hausverbot bekommt"
+  },
+  {
+    "id": "medium-232",
+    "level": "medium",
+    "text": "Was könnte man mit einem riesigen Radiergummi verschwinden lassen?"
+  },
+  {
+    "id": "medium-233",
+    "level": "medium",
+    "text": "Ein Problem, wenn Haare je nach Stimmung ihre Farbe ändern"
+  },
+  {
+    "id": "medium-234",
+    "level": "medium",
+    "text": "Eine Freizeitaktivität, die mit einem Doppelgänger verwirrend wird"
+  },
+  {
+    "id": "medium-235",
+    "level": "medium",
+    "text": "Was versteckt sich hinter einer winzigen Baustellenabsperrung?"
+  },
+  {
+    "id": "medium-236",
+    "level": "medium",
+    "text": "Ein Produkt, das ein ehrlicher Verkäufer schlecht loswird"
+  },
+  {
+    "id": "medium-237",
+    "level": "medium",
+    "text": "Ein Grund, warum ein Tunnel Lampenfieber bekommt"
+  },
+  {
+    "id": "medium-238",
+    "level": "medium",
+    "text": "Was macht ein feuersicherer Feuerwehrmann in der Mittagspause?"
+  },
+  {
+    "id": "medium-239",
+    "level": "medium",
+    "text": "Ein unwahrscheinlicher Inhalt einer Flaschenpost vom Meeresgrund"
+  },
+  {
+    "id": "medium-240",
+    "level": "medium",
+    "text": "Eine Erfindung, die das Leben von Regenwürmern verbessert"
+  },
+  {
+    "id": "medium-241",
+    "level": "medium",
+    "text": "Was hängt am Schlüsselbund eines Kerkermeisters im Märchen?"
+  },
+  {
+    "id": "medium-242",
+    "level": "medium",
+    "text": "Ein Gegenstand, der beim Niesen explodieren dürfte"
+  },
+  {
+    "id": "medium-243",
+    "level": "medium",
+    "text": "Ein unerwartetes Problem beim Verleih von Superkräften"
+  },
+  {
+    "id": "medium-244",
+    "level": "medium",
+    "text": "Was macht ein lebendiger Schneeball im Sommer?"
+  },
+  {
+    "id": "medium-245",
+    "level": "medium",
+    "text": "Ein Geschenk, das ein sprechender Baum unhöflich fände"
+  },
+  {
+    "id": "medium-246",
+    "level": "medium",
+    "text": "Eine Sache, für die ein Miniaturmensch eine Leiter braucht"
+  },
+  {
+    "id": "medium-247",
+    "level": "medium",
+    "text": "Was steht auf dem Einkaufszettel einer Wolkenfamilie?"
+  },
+  {
+    "id": "medium-248",
+    "level": "medium",
+    "text": "Ein Tier, das als Fahrlehrer ständig eingreifen würde"
+  },
+  {
+    "id": "medium-249",
+    "level": "medium",
+    "text": "Eine schlechte Wahl für den Fußboden eines Raumschiffs"
+  },
+  {
+    "id": "medium-250",
+    "level": "medium",
+    "text": "Was könnte man im Automaten für verlorene Abenteuer ziehen?"
+  },
+  {
+    "id": "medium-251",
+    "level": "medium",
+    "text": "Meine neue Superkraft hat leider den Nachteil, dass ..."
+  },
+  {
+    "id": "medium-252",
+    "level": "medium",
+    "text": "Der Bösewicht hinterlässt als Visitenkarte ..."
+  },
+  {
+    "id": "medium-253",
+    "level": "medium",
+    "text": "In unserem Garten wächst seit dem Gewitter ..."
+  },
+  {
+    "id": "medium-254",
+    "level": "medium",
+    "text": "Die Zauberschule hat Hitzefrei, sobald ..."
+  },
+  {
+    "id": "medium-255",
+    "level": "medium",
+    "text": "Mein sprechendes Fahrrad flucht über ..."
+  },
+  {
+    "id": "medium-256",
+    "level": "medium",
+    "text": "Die Polizei sucht einen Gartenzwerg wegen ..."
+  },
+  {
+    "id": "medium-257",
+    "level": "medium",
+    "text": "Im Fahrstuhl drücke ich den geheimen Knopf für ..."
+  },
+  {
+    "id": "medium-258",
+    "level": "medium",
+    "text": "Ein sehr kleiner Riese hat große Probleme mit ..."
+  },
+  {
+    "id": "medium-259",
+    "level": "medium",
+    "text": "Das Raumschiff landet nur auf ..."
+  },
+  {
+    "id": "medium-260",
+    "level": "medium",
+    "text": "Mein Schatten verlangt mehr ..."
+  },
+  {
+    "id": "medium-261",
+    "level": "medium",
+    "text": "Das Haustier aus der Zukunft frisst ausschließlich ..."
+  },
+  {
+    "id": "medium-262",
+    "level": "medium",
+    "text": "Der gruselige Wald wird weniger gruselig durch ..."
+  },
+  {
+    "id": "medium-263",
+    "level": "medium",
+    "text": "Im Zauberwald bezahlt man mit ..."
+  },
+  {
+    "id": "medium-264",
+    "level": "medium",
+    "text": "Die Meerjungfrau hat Hausverbot im ..."
+  },
+  {
+    "id": "medium-265",
+    "level": "medium",
+    "text": "Der Drache ist im Zirkus zuständig für ..."
+  },
+  {
+    "id": "medium-266",
+    "level": "medium",
+    "text": "Der Zauberer kann alles verwandeln, außer ..."
+  },
+  {
+    "id": "medium-267",
+    "level": "medium",
+    "text": "Mein Roboter hat sich verliebt in ..."
+  },
+  {
+    "id": "medium-268",
+    "level": "medium",
+    "text": "Im geheimen Fach des Throns liegt ..."
+  },
+  {
+    "id": "medium-269",
+    "level": "medium",
+    "text": "Die Zeitreise wurde unterbrochen von ..."
+  },
+  {
+    "id": "medium-270",
+    "level": "medium",
+    "text": "Ein Vampir erkennt einen schlechten Tag an ..."
+  },
+  {
+    "id": "medium-271",
+    "level": "medium",
+    "text": "Was würde eine Hexe im Baumarkt reklamieren?"
+  },
+  {
+    "id": "medium-272",
+    "level": "medium",
+    "text": "Ein Beruf für jemanden, dessen Nase bei jeder Lüge wächst"
+  },
+  {
+    "id": "medium-273",
+    "level": "medium",
+    "text": "Ein alberner Grund für einen Streik der Sterne"
+  },
+  {
+    "id": "medium-274",
+    "level": "medium",
+    "text": "Was kann man bei einem Wolkenumzug versehentlich verlieren?"
+  },
+  {
+    "id": "medium-275",
+    "level": "medium",
+    "text": "Eine Sache, die bei einem Picknick auf einem Wal schiefgeht"
+  },
+  {
+    "id": "medium-276",
+    "level": "medium",
+    "text": "Ein seltsames Haustier für einen Detektiv"
+  },
+  {
+    "id": "medium-277",
+    "level": "medium",
+    "text": "Was gehört ins Handgepäck einer Zahnfee?"
+  },
+  {
+    "id": "medium-278",
+    "level": "medium",
+    "text": "Ein unerwarteter Halt bei einer Fahrt mit dem Geisterzug"
+  },
+  {
+    "id": "medium-279",
+    "level": "medium",
+    "text": "Eine Sache, die bei einem Wettrennen gegen dein Spiegelbild hilft"
+  },
+  {
+    "id": "medium-280",
+    "level": "medium",
+    "text": "Was könnte eine unsichtbare Person auf einem Selfie zeigen?"
+  },
+  {
+    "id": "medium-281",
+    "level": "medium",
+    "text": "Ein Geräusch, mit dem sich eine fliegende Untertasse ankündigt"
+  },
+  {
+    "id": "medium-282",
+    "level": "medium",
+    "text": "Ein unerwarteter Test beim Führerschein für Hexenbesen"
+  },
+  {
+    "id": "medium-283",
+    "level": "medium",
+    "text": "Was macht eine Discokugel, wenn die Party abgesagt wird?"
+  },
+  {
+    "id": "medium-284",
+    "level": "medium",
+    "text": "Eine Beschwerde im Gästebuch eines Vampirhotels"
+  },
+  {
+    "id": "medium-285",
+    "level": "medium",
+    "text": "Ein Geheimnis, das ein sehr alter Käse verraten könnte"
+  },
+  {
+    "id": "medium-286",
+    "level": "medium",
+    "text": "Was könnte ein streikender Wasserhahn statt Wasser liefern?"
+  },
+  {
+    "id": "medium-287",
+    "level": "medium",
+    "text": "Ein ungeschickter Trick eines Huhns im Zauberverein"
+  },
+  {
+    "id": "medium-288",
+    "level": "medium",
+    "text": "Ein Tier, das als Hoteltester besonders streng wäre"
+  },
+  {
+    "id": "medium-289",
+    "level": "medium",
+    "text": "Was macht ein sprechender Regenschirm bei Sonnenschein?"
+  },
+  {
+    "id": "medium-290",
+    "level": "medium",
+    "text": "Eine unangenehme Überraschung im Koffer eines Zeitreisenden"
+  },
+  {
+    "id": "medium-291",
+    "level": "medium",
+    "text": "Ein neuer Unterrichtsraum im Schloss der Hexen"
+  },
+  {
+    "id": "medium-292",
+    "level": "medium",
+    "text": "Was würde ein Drache im Raucherbereich erzählen?"
+  },
+  {
+    "id": "medium-293",
+    "level": "medium",
+    "text": "Ein Gegenstand, den man einem höflichen Gespenst reicht"
+  },
+  {
+    "id": "medium-294",
+    "level": "medium",
+    "text": "Ein Grund, warum eine lebendige Ritterrüstung quietscht"
+  },
+  {
+    "id": "medium-295",
+    "level": "medium",
+    "text": "Was wäre bei einem Versteckspiel im Weltall unfair?"
+  },
+  {
+    "id": "medium-296",
+    "level": "medium",
+    "text": "Ein Werbegeschenk auf einer Messe für Superschurken"
+  },
+  {
+    "id": "medium-297",
+    "level": "medium",
+    "text": "Eine Sache, die ein Pirat niemals in eine Sprachnachricht sagt"
+  },
+  {
+    "id": "medium-298",
+    "level": "medium",
+    "text": "Was stört einen sehr empfindlichen Troll an seiner Brücke?"
+  },
+  {
+    "id": "medium-299",
+    "level": "medium",
+    "text": "Ein Requisit für den schlechtesten Monsterfilm der Welt"
+  },
+  {
+    "id": "medium-300",
+    "level": "medium",
+    "text": "Eine Überraschung beim Öffnen des letzten Portals"
+  },
+  {
     "id": "hard-001",
     "level": "hard",
     "text": "Eine harmlose Sache, die wie eine Drohung klingt"
@@ -1498,5 +3498,1005 @@
     "id": "hard-100",
     "level": "hard",
     "text": "Ein letzter Gedanke einer Seifenblase vor dem Platzen"
+  },
+  {
+    "id": "hard-101",
+    "level": "hard",
+    "text": "Die Erde ist im Universum bekannt für ..."
+  },
+  {
+    "id": "hard-102",
+    "level": "hard",
+    "text": "Mein gesunder Menschenverstand macht heute ..."
+  },
+  {
+    "id": "hard-103",
+    "level": "hard",
+    "text": "Das Kleingedruckte des Lebens verspricht ..."
+  },
+  {
+    "id": "hard-104",
+    "level": "hard",
+    "text": "Meine Komfortzone hat neuerdings ..."
+  },
+  {
+    "id": "hard-105",
+    "level": "hard",
+    "text": "Die Schwerkraft lässt mit sich reden, wenn ..."
+  },
+  {
+    "id": "hard-106",
+    "level": "hard",
+    "text": "Das Schicksal hat meinen Antrag abgelehnt wegen ..."
+  },
+  {
+    "id": "hard-107",
+    "level": "hard",
+    "text": "Im Museum meiner Fehlentscheidungen steht ..."
+  },
+  {
+    "id": "hard-108",
+    "level": "hard",
+    "text": "Mein Geduldsfaden reißt bei ..."
+  },
+  {
+    "id": "hard-109",
+    "level": "hard",
+    "text": "Der Zufall behauptet, er sei ..."
+  },
+  {
+    "id": "hard-110",
+    "level": "hard",
+    "text": "Ein Update für die Menschheit sollte endlich ..."
+  },
+  {
+    "id": "hard-111",
+    "level": "hard",
+    "text": "Mein Bauchgefühl verlangt eine Gehaltserhöhung für ..."
+  },
+  {
+    "id": "hard-112",
+    "level": "hard",
+    "text": "Die Stille klingt plötzlich nach ..."
+  },
+  {
+    "id": "hard-113",
+    "level": "hard",
+    "text": "Mein innerer Schweinehund hat einen Doktortitel in ..."
+  },
+  {
+    "id": "hard-114",
+    "level": "hard",
+    "text": "Die Zukunft schickt uns eine Rechnung für ..."
+  },
+  {
+    "id": "hard-115",
+    "level": "hard",
+    "text": "Mein Schatten weiß mehr über mich als ..."
+  },
+  {
+    "id": "hard-116",
+    "level": "hard",
+    "text": "Die Wahrheit hat heute frei und wird vertreten von ..."
+  },
+  {
+    "id": "hard-117",
+    "level": "hard",
+    "text": "Der Sinn des Lebens liegt vermutlich unter ..."
+  },
+  {
+    "id": "hard-118",
+    "level": "hard",
+    "text": "Die Ewigkeit wäre erträglicher mit ..."
+  },
+  {
+    "id": "hard-119",
+    "level": "hard",
+    "text": "Mein Selbstbewusstsein hat Öffnungszeiten von ..."
+  },
+  {
+    "id": "hard-120",
+    "level": "hard",
+    "text": "Im Bewerbungsgespräch nennt das Chaos als Stärke ..."
+  },
+  {
+    "id": "hard-121",
+    "level": "hard",
+    "text": "Der Alltag hätte bessere Bewertungen, wenn ..."
+  },
+  {
+    "id": "hard-122",
+    "level": "hard",
+    "text": "Meine peinlichste Erinnerung wird gesponsert von ..."
+  },
+  {
+    "id": "hard-123",
+    "level": "hard",
+    "text": "Gedanken würden besser schmecken mit ..."
+  },
+  {
+    "id": "hard-124",
+    "level": "hard",
+    "text": "Der letzte Mensch auf Erden beschwert sich über ..."
+  },
+  {
+    "id": "hard-125",
+    "level": "hard",
+    "text": "Die Vernunft verliert jedes Argument gegen ..."
+  },
+  {
+    "id": "hard-126",
+    "level": "hard",
+    "text": "Mein Ehrgeiz wurde zuletzt gesehen bei ..."
+  },
+  {
+    "id": "hard-127",
+    "level": "hard",
+    "text": "Das Universum hat einen Fehler gemacht bei ..."
+  },
+  {
+    "id": "hard-128",
+    "level": "hard",
+    "text": "Die Hoffnung weigert sich, ..."
+  },
+  {
+    "id": "hard-129",
+    "level": "hard",
+    "text": "Meine Verpackung hätte den Warnhinweis: ..."
+  },
+  {
+    "id": "hard-130",
+    "level": "hard",
+    "text": "Der Zufall braucht ein Alibi für ..."
+  },
+  {
+    "id": "hard-131",
+    "level": "hard",
+    "text": "Mein Gedächtnis sortiert Erinnerungen nach ..."
+  },
+  {
+    "id": "hard-132",
+    "level": "hard",
+    "text": "Die Realität verlangt einen Aufpreis für ..."
+  },
+  {
+    "id": "hard-133",
+    "level": "hard",
+    "text": "Eine Lüge wird glaubwürdiger durch ..."
+  },
+  {
+    "id": "hard-134",
+    "level": "hard",
+    "text": "Mein innerer Kritiker lobt mich nur für ..."
+  },
+  {
+    "id": "hard-135",
+    "level": "hard",
+    "text": "In einer Welt ohne Zeit zählt nur ..."
+  },
+  {
+    "id": "hard-136",
+    "level": "hard",
+    "text": "Die Menschheit bekommt einen Preis für ..."
+  },
+  {
+    "id": "hard-137",
+    "level": "hard",
+    "text": "Mein Zukunfts-Ich schickt mir eine Warnung vor ..."
+  },
+  {
+    "id": "hard-138",
+    "level": "hard",
+    "text": "Die Nostalgie unterschlägt in ihren Geschichten ..."
+  },
+  {
+    "id": "hard-139",
+    "level": "hard",
+    "text": "Ein Gedanke, den ich gern zurückgeben würde, lautet: ..."
+  },
+  {
+    "id": "hard-140",
+    "level": "hard",
+    "text": "Mein schlechtes Gewissen hat die Stimme von ..."
+  },
+  {
+    "id": "hard-141",
+    "level": "hard",
+    "text": "Die Logik hat Hausverbot im ..."
+  },
+  {
+    "id": "hard-142",
+    "level": "hard",
+    "text": "Wenn Wünsche Porto kosten würden, ..."
+  },
+  {
+    "id": "hard-143",
+    "level": "hard",
+    "text": "Die Einsamkeit zieht aus, sobald ..."
+  },
+  {
+    "id": "hard-144",
+    "level": "hard",
+    "text": "Meine Geduld hat ein geheimes Verfallsdatum: ..."
+  },
+  {
+    "id": "hard-145",
+    "level": "hard",
+    "text": "Das Glück kommt nur vorbei, um ..."
+  },
+  {
+    "id": "hard-146",
+    "level": "hard",
+    "text": "Die perfekte Ausrede enthält immer ..."
+  },
+  {
+    "id": "hard-147",
+    "level": "hard",
+    "text": "Mein Leben als Brettspiel hätte die Regel: ..."
+  },
+  {
+    "id": "hard-148",
+    "level": "hard",
+    "text": "Die Zeit bleibt stehen, sobald ..."
+  },
+  {
+    "id": "hard-149",
+    "level": "hard",
+    "text": "Der Mut versteckt sich gern hinter ..."
+  },
+  {
+    "id": "hard-150",
+    "level": "hard",
+    "text": "Im Wörterbuch der Gefühle fehlt das Wort für ..."
+  },
+  {
+    "id": "hard-151",
+    "level": "hard",
+    "text": "Ein Alltagsproblem, das ein allmächtiges Wesen überraschen würde"
+  },
+  {
+    "id": "hard-152",
+    "level": "hard",
+    "text": "Was wäre ein peinlicher Beweis dafür, dass wir in einer Simulation leben?"
+  },
+  {
+    "id": "hard-153",
+    "level": "hard",
+    "text": "Ein Satz, der zugleich nach Lebensweisheit und Küchenunfall klingt"
+  },
+  {
+    "id": "hard-154",
+    "level": "hard",
+    "text": "Eine Sache, die durch ein Echtheitszertifikat lächerlich wird"
+  },
+  {
+    "id": "hard-155",
+    "level": "hard",
+    "text": "Was würde die Langeweile in ihrem Lebenslauf hervorheben?"
+  },
+  {
+    "id": "hard-156",
+    "level": "hard",
+    "text": "Ein Grund, einem Orakel nur einen Stern zu geben"
+  },
+  {
+    "id": "hard-157",
+    "level": "hard",
+    "text": "Eine höfliche Formulierung für einen kompletten Weltuntergang"
+  },
+  {
+    "id": "hard-158",
+    "level": "hard",
+    "text": "Was könnte man im Fundbüro für verlorene Motivation abholen?"
+  },
+  {
+    "id": "hard-159",
+    "level": "hard",
+    "text": "Ein Gegenstand als Symbol für eine sehr fragwürdige Entscheidung"
+  },
+  {
+    "id": "hard-160",
+    "level": "hard",
+    "text": "Ein Problem, wenn alle Komplimente wörtlich wahr werden"
+  },
+  {
+    "id": "hard-161",
+    "level": "hard",
+    "text": "Was braucht eine Gebrauchsanweisung für spontanen Spaß?"
+  },
+  {
+    "id": "hard-162",
+    "level": "hard",
+    "text": "Eine Sache, die offiziell verboten interessanter wäre"
+  },
+  {
+    "id": "hard-163",
+    "level": "hard",
+    "text": "Ein Beweisstück in einem Gerichtsprozess gegen den Montag"
+  },
+  {
+    "id": "hard-164",
+    "level": "hard",
+    "text": "Was würde ein Gedankenleser als Betriebsgeheimnis hüten?"
+  },
+  {
+    "id": "hard-165",
+    "level": "hard",
+    "text": "Ein seltsames Sonderangebot im Laden für zweite Chancen"
+  },
+  {
+    "id": "hard-166",
+    "level": "hard",
+    "text": "Eine Nebenwirkung von unbegrenztem Selbstvertrauen"
+  },
+  {
+    "id": "hard-167",
+    "level": "hard",
+    "text": "Was stellt man einem unsichtbaren Freund in Rechnung?"
+  },
+  {
+    "id": "hard-168",
+    "level": "hard",
+    "text": "Ein Satz, der einen Motivationskalender entmutigt"
+  },
+  {
+    "id": "hard-169",
+    "level": "hard",
+    "text": "Eine Situation, die mit Applaus deutlich unangenehmer wird"
+  },
+  {
+    "id": "hard-170",
+    "level": "hard",
+    "text": "Was würde eine Kreuzung aus Kalender und Lügendetektor anzeigen?"
+  },
+  {
+    "id": "hard-171",
+    "level": "hard",
+    "text": "Ein neues Statussymbol in einer Welt ohne Geld"
+  },
+  {
+    "id": "hard-172",
+    "level": "hard",
+    "text": "Eine peinliche Panne bei der Erschaffung eines Universums"
+  },
+  {
+    "id": "hard-173",
+    "level": "hard",
+    "text": "Was könnte die Angst vor Veränderungen zum Umzug bewegen?"
+  },
+  {
+    "id": "hard-174",
+    "level": "hard",
+    "text": "Ein alltägliches Geräusch als Nationalhymne der Überforderung"
+  },
+  {
+    "id": "hard-175",
+    "level": "hard",
+    "text": "Eine Sache, die ein vernünftiger Mensch nur aus Prinzip tut"
+  },
+  {
+    "id": "hard-176",
+    "level": "hard",
+    "text": "Was steht im Arbeitszeugnis eines unzuverlässigen Zufalls?"
+  },
+  {
+    "id": "hard-177",
+    "level": "hard",
+    "text": "Ein Gegenstand, der nach mehr Autorität aussieht, als er verdient"
+  },
+  {
+    "id": "hard-178",
+    "level": "hard",
+    "text": "Eine schlechte Nachricht, verpackt als Luxusangebot"
+  },
+  {
+    "id": "hard-179",
+    "level": "hard",
+    "text": "Was wäre ein ehrlicher Warnhinweis auf einem guten Vorsatz?"
+  },
+  {
+    "id": "hard-180",
+    "level": "hard",
+    "text": "Eine gesellschaftliche Regel, die beim lauten Vorlesen seltsam klingt"
+  },
+  {
+    "id": "hard-181",
+    "level": "hard",
+    "text": "Ein Alltagsvorgang, den ein Außerirdischer für einen Machtkampf hält"
+  },
+  {
+    "id": "hard-182",
+    "level": "hard",
+    "text": "Was verliert an Würde, sobald es quietscht?"
+  },
+  {
+    "id": "hard-183",
+    "level": "hard",
+    "text": "Ein Streitpunkt in einer Wohngemeinschaft aus Erinnerungen"
+  },
+  {
+    "id": "hard-184",
+    "level": "hard",
+    "text": "Eine unnötige Versicherung für jemanden, der die Zukunft kennt"
+  },
+  {
+    "id": "hard-185",
+    "level": "hard",
+    "text": "Was würde der Pessimismus an einem perfekten Tag bemängeln?"
+  },
+  {
+    "id": "hard-186",
+    "level": "hard",
+    "text": "Ein Gegenstand als offizielles Dienstfahrzeug der Gemütlichkeit"
+  },
+  {
+    "id": "hard-187",
+    "level": "hard",
+    "text": "Eine Sache, die ein Philosoph beim Aufräumen nicht entscheiden kann"
+  },
+  {
+    "id": "hard-188",
+    "level": "hard",
+    "text": "Was könnte man als Pfand für ein Versprechen hinterlegen?"
+  },
+  {
+    "id": "hard-189",
+    "level": "hard",
+    "text": "Eine Beschwerde am Schalter für unerfüllte Erwartungen"
+  },
+  {
+    "id": "hard-190",
+    "level": "hard",
+    "text": "Ein Satz, der harmlos beginnt und nach Weltherrschaft endet"
+  },
+  {
+    "id": "hard-191",
+    "level": "hard",
+    "text": "Was wäre eine peinliche Schwachstelle der Unbesiegbarkeit?"
+  },
+  {
+    "id": "hard-192",
+    "level": "hard",
+    "text": "Ein Gegenstand, der beim Verhör sofort alles gestehen würde"
+  },
+  {
+    "id": "hard-193",
+    "level": "hard",
+    "text": "Eine neue Verkehrsregel für Gedankensprünge"
+  },
+  {
+    "id": "hard-194",
+    "level": "hard",
+    "text": "Was würde ein Glückskeks vorhersagen, der immer die Wahrheit sagt?"
+  },
+  {
+    "id": "hard-195",
+    "level": "hard",
+    "text": "Ein bürokratisches Hindernis auf dem Weg zur Erleuchtung"
+  },
+  {
+    "id": "hard-196",
+    "level": "hard",
+    "text": "Eine Sache, die der Optimismus heimlich hortet"
+  },
+  {
+    "id": "hard-197",
+    "level": "hard",
+    "text": "Was muss man bei der Rückgabe einer gestohlenen Idee beachten?"
+  },
+  {
+    "id": "hard-198",
+    "level": "hard",
+    "text": "Ein enttäuschender Inhalt der geheimsten Akte der Welt"
+  },
+  {
+    "id": "hard-199",
+    "level": "hard",
+    "text": "Eine Tätigkeit, die sich mit feierlicher Kleidung völlig anders anfühlt"
+  },
+  {
+    "id": "hard-200",
+    "level": "hard",
+    "text": "Was könnte der gesunde Menschenverstand als Schmerzensgeld fordern?"
+  },
+  {
+    "id": "hard-201",
+    "level": "hard",
+    "text": "Ein Argument, mit dem man einen Wecker von seiner Sinnlosigkeit überzeugt"
+  },
+  {
+    "id": "hard-202",
+    "level": "hard",
+    "text": "Was wäre ein Regelverstoß bei einem Wettbewerb im Nichtstun?"
+  },
+  {
+    "id": "hard-203",
+    "level": "hard",
+    "text": "Eine Sache, die als Museumsstück unsere Zeit schlecht aussehen lässt"
+  },
+  {
+    "id": "hard-204",
+    "level": "hard",
+    "text": "Ein Gesetz für eine Welt, in der jeder Seufzer sichtbar wird"
+  },
+  {
+    "id": "hard-205",
+    "level": "hard",
+    "text": "Was verkauft die Eitelkeit auf dem Flohmarkt?"
+  },
+  {
+    "id": "hard-206",
+    "level": "hard",
+    "text": "Ein Satz, der sowohl in einer Beziehung als auch auf einer Baustelle passt"
+  },
+  {
+    "id": "hard-207",
+    "level": "hard",
+    "text": "Eine unangenehme Frage beim Elternabend der Naturgesetze"
+  },
+  {
+    "id": "hard-208",
+    "level": "hard",
+    "text": "Was muss man einem künstlichen Gewissen zuerst beibringen?"
+  },
+  {
+    "id": "hard-209",
+    "level": "hard",
+    "text": "Ein Feiertag, den die Prokrastination ständig verschiebt"
+  },
+  {
+    "id": "hard-210",
+    "level": "hard",
+    "text": "Eine Alltagssache, die als Sport mit Kommentator spannend wäre"
+  },
+  {
+    "id": "hard-211",
+    "level": "hard",
+    "text": "Was könnte ein Portal zur Vergangenheit als Pfand verlangen?"
+  },
+  {
+    "id": "hard-212",
+    "level": "hard",
+    "text": "Ein Argument im Streit zwischen einer Uhr und einem Kalender"
+  },
+  {
+    "id": "hard-213",
+    "level": "hard",
+    "text": "Eine gute Tat, die sich wie ein winziger Machtmissbrauch anfühlt"
+  },
+  {
+    "id": "hard-214",
+    "level": "hard",
+    "text": "Was wäre ein sehr schlechtes Geschenk für die Unendlichkeit?"
+  },
+  {
+    "id": "hard-215",
+    "level": "hard",
+    "text": "Ein peinliches Detail in der Bilanz eines Schutzengels"
+  },
+  {
+    "id": "hard-216",
+    "level": "hard",
+    "text": "Eine Sache, die beim dritten Erklären verdächtig wird"
+  },
+  {
+    "id": "hard-217",
+    "level": "hard",
+    "text": "Was würde die Vernunft bei einer Mutprobe tun?"
+  },
+  {
+    "id": "hard-218",
+    "level": "hard",
+    "text": "Ein enttäuschendes Geheimnis hinter einer uralten Prophezeiung"
+  },
+  {
+    "id": "hard-219",
+    "level": "hard",
+    "text": "Eine Alltagstätigkeit mit einem unangemessen dramatischen Namen"
+  },
+  {
+    "id": "hard-220",
+    "level": "hard",
+    "text": "Was wäre ein Bedienfehler bei einem Knopf für ewiges Glück?"
+  },
+  {
+    "id": "hard-221",
+    "level": "hard",
+    "text": "Ein Gegenstand, der perfekt für einen völlig erfundenen Brauch wäre"
+  },
+  {
+    "id": "hard-222",
+    "level": "hard",
+    "text": "Eine Ausrede, die das eigene Spiegelbild durchschaut"
+  },
+  {
+    "id": "hard-223",
+    "level": "hard",
+    "text": "Was könnte man im Schlussverkauf für unerlebte Abenteuer ergattern?"
+  },
+  {
+    "id": "hard-224",
+    "level": "hard",
+    "text": "Ein Grund, warum die Vergangenheit eine Schönheitsoperation möchte"
+  },
+  {
+    "id": "hard-225",
+    "level": "hard",
+    "text": "Eine schlechte Eigenschaft, die als Superkraft durchgeht"
+  },
+  {
+    "id": "hard-226",
+    "level": "hard",
+    "text": "Was könnte eine Suchmaschine für verschollene Gedanken anzeigen?"
+  },
+  {
+    "id": "hard-227",
+    "level": "hard",
+    "text": "Ein Moment, in dem eine automatische Jubelmaschine peinlich wäre"
+  },
+  {
+    "id": "hard-228",
+    "level": "hard",
+    "text": "Eine Sache, die in einem Wörterbuch der Ausreden stehen müsste"
+  },
+  {
+    "id": "hard-229",
+    "level": "hard",
+    "text": "Was würde man für ein Patent auf Gemütlichkeit einreichen?"
+  },
+  {
+    "id": "hard-230",
+    "level": "hard",
+    "text": "Ein Kompliment, das eine Gebrauchsanweisung stolz machen würde"
+  },
+  {
+    "id": "hard-231",
+    "level": "hard",
+    "text": "Eine Sache, die durch Flüstern unnötig geheimnisvoll wird"
+  },
+  {
+    "id": "hard-232",
+    "level": "hard",
+    "text": "Was wäre eine blöde Sicherheitsfrage für ein allwissendes Wesen?"
+  },
+  {
+    "id": "hard-233",
+    "level": "hard",
+    "text": "Ein Grund, warum ein Gerücht einen Anwalt braucht"
+  },
+  {
+    "id": "hard-234",
+    "level": "hard",
+    "text": "Eine Situation, in der ein Heiligenschein wirklich stört"
+  },
+  {
+    "id": "hard-235",
+    "level": "hard",
+    "text": "Was müsste ein Museum der ganz normalen Tage ausstellen?"
+  },
+  {
+    "id": "hard-236",
+    "level": "hard",
+    "text": "Ein kleiner Fehler, der als Tradition verteidigt wird"
+  },
+  {
+    "id": "hard-237",
+    "level": "hard",
+    "text": "Eine Sache, die man einem sehr buchstäblichen Universum nicht wünschen sollte"
+  },
+  {
+    "id": "hard-238",
+    "level": "hard",
+    "text": "Was könnte eine Fernbedienung für die Realität versehentlich umschalten?"
+  },
+  {
+    "id": "hard-239",
+    "level": "hard",
+    "text": "Ein Ausstellungsstück im Museum der unausgesprochenen Sätze"
+  },
+  {
+    "id": "hard-240",
+    "level": "hard",
+    "text": "Eine Dienstleistung, die ein professioneller Zweifler anbietet"
+  },
+  {
+    "id": "hard-241",
+    "level": "hard",
+    "text": "Was würde ein Berg an seinem Echo kritisieren?"
+  },
+  {
+    "id": "hard-242",
+    "level": "hard",
+    "text": "Ein harmloser Gegenstand als Beweis einer riesigen Verschwörung"
+  },
+  {
+    "id": "hard-243",
+    "level": "hard",
+    "text": "Ein Grund für eine diplomatische Krise zwischen Tag und Nacht"
+  },
+  {
+    "id": "hard-244",
+    "level": "hard",
+    "text": "Was könnte die Geduld in einem Wutanfall zerstören?"
+  },
+  {
+    "id": "hard-245",
+    "level": "hard",
+    "text": "Eine Sache, die nur mit Publikum funktioniert"
+  },
+  {
+    "id": "hard-246",
+    "level": "hard",
+    "text": "Ein Alltagserlebnis, das als Kinotrailer völlig übertrieben wäre"
+  },
+  {
+    "id": "hard-247",
+    "level": "hard",
+    "text": "Was hätte ein Wettbewerb im Bescheidensein als Hauptpreis?"
+  },
+  {
+    "id": "hard-248",
+    "level": "hard",
+    "text": "Eine höfliche Absage an eine Einladung zur Unsterblichkeit"
+  },
+  {
+    "id": "hard-249",
+    "level": "hard",
+    "text": "Ein verbotener Gegenstand in einer Bibliothek der Zukunft"
+  },
+  {
+    "id": "hard-250",
+    "level": "hard",
+    "text": "Was könnte die letzte offene Frage des Universums sein?"
+  },
+  {
+    "id": "hard-251",
+    "level": "hard",
+    "text": "Der lauteste Gedanke in meinem Kopf lautet: ..."
+  },
+  {
+    "id": "hard-252",
+    "level": "hard",
+    "text": "Meine Motivation springt nur an mit ..."
+  },
+  {
+    "id": "hard-253",
+    "level": "hard",
+    "text": "Die Vernunft hat heute Ausgang und geht ..."
+  },
+  {
+    "id": "hard-254",
+    "level": "hard",
+    "text": "Das Glück ist ausverkauft, aber wir haben noch ..."
+  },
+  {
+    "id": "hard-255",
+    "level": "hard",
+    "text": "Der Ernst des Lebens trägt heimlich ..."
+  },
+  {
+    "id": "hard-256",
+    "level": "hard",
+    "text": "Mein Ego passt gerade noch in ..."
+  },
+  {
+    "id": "hard-257",
+    "level": "hard",
+    "text": "Ein Tag ohne Konsequenzen endet vermutlich mit ..."
+  },
+  {
+    "id": "hard-258",
+    "level": "hard",
+    "text": "Die Zeit entschuldigt sich für ..."
+  },
+  {
+    "id": "hard-259",
+    "level": "hard",
+    "text": "Mein schlechtes Gewissen akzeptiert als Bestechung ..."
+  },
+  {
+    "id": "hard-260",
+    "level": "hard",
+    "text": "Die Realität ist nur ein Gerücht, verbreitet von ..."
+  },
+  {
+    "id": "hard-261",
+    "level": "hard",
+    "text": "Im Urlaub vom Erwachsensein würde ich ..."
+  },
+  {
+    "id": "hard-262",
+    "level": "hard",
+    "text": "Der Fortschritt hat versehentlich etwas abgeschafft, nämlich ..."
+  },
+  {
+    "id": "hard-263",
+    "level": "hard",
+    "text": "Meine Gedanken haben einen Stau vor ..."
+  },
+  {
+    "id": "hard-264",
+    "level": "hard",
+    "text": "Das Schicksal würde sich selbst beschreiben als ..."
+  },
+  {
+    "id": "hard-265",
+    "level": "hard",
+    "text": "In meiner eigenen Welt gäbe es eine Steuer auf ..."
+  },
+  {
+    "id": "hard-266",
+    "level": "hard",
+    "text": "Der Optimismus trägt einen Helm, weil ..."
+  },
+  {
+    "id": "hard-267",
+    "level": "hard",
+    "text": "Meine Erinnerungen verlangen eine Entschuldigung für ..."
+  },
+  {
+    "id": "hard-268",
+    "level": "hard",
+    "text": "Der schwerste Moment auf einer Waage für Peinlichkeit wäre ..."
+  },
+  {
+    "id": "hard-269",
+    "level": "hard",
+    "text": "Die Hoffnung hat einen Notfallplan für ..."
+  },
+  {
+    "id": "hard-270",
+    "level": "hard",
+    "text": "Das Universum braucht dringend Nachhilfe in ..."
+  },
+  {
+    "id": "hard-271",
+    "level": "hard",
+    "text": "Was würde ein sehr kleinlicher Flaschengeist als drei Wünsche zählen?"
+  },
+  {
+    "id": "hard-272",
+    "level": "hard",
+    "text": "Ein Warnhinweis auf einer Packung Menschenkenntnis"
+  },
+  {
+    "id": "hard-273",
+    "level": "hard",
+    "text": "Eine Nebenwirkung von absoluter Ehrlichkeit beim Smalltalk"
+  },
+  {
+    "id": "hard-274",
+    "level": "hard",
+    "text": "Was müsste man der Schwerkraft für eine Stunde Urlaub anbieten?"
+  },
+  {
+    "id": "hard-275",
+    "level": "hard",
+    "text": "Ein Grund, warum eine Landkarte ihr Selbstvertrauen verliert"
+  },
+  {
+    "id": "hard-276",
+    "level": "hard",
+    "text": "Eine sinnlose Kennzahl für den Erfolg eines Abenteuerurlaubs"
+  },
+  {
+    "id": "hard-277",
+    "level": "hard",
+    "text": "Was könnte in einer Bedienungsanleitung für Zufälle stehen?"
+  },
+  {
+    "id": "hard-278",
+    "level": "hard",
+    "text": "Ein schlechter Zeitpunkt, wenn das eigene Leben Untertitel bekommt"
+  },
+  {
+    "id": "hard-279",
+    "level": "hard",
+    "text": "Eine Sache, die nur durch ihr Verbot berühmt wurde"
+  },
+  {
+    "id": "hard-280",
+    "level": "hard",
+    "text": "Was bringt man als Gastgeschenk zu einer Feier des Schicksals mit?"
+  },
+  {
+    "id": "hard-281",
+    "level": "hard",
+    "text": "Ein Gedanke, der dringend einen Helm tragen sollte"
+  },
+  {
+    "id": "hard-282",
+    "level": "hard",
+    "text": "Eine Tätigkeit, die sich bei völliger Perfektion unheimlich anfühlt"
+  },
+  {
+    "id": "hard-283",
+    "level": "hard",
+    "text": "Was würde ein Spiegel als Betriebsblindheit bezeichnen?"
+  },
+  {
+    "id": "hard-284",
+    "level": "hard",
+    "text": "Ein besonders kleinlicher Wunsch an eine Sternschnuppe"
+  },
+  {
+    "id": "hard-285",
+    "level": "hard",
+    "text": "Eine Sache, die man mit einer Zeitmaschine trotzdem nicht nachholen kann"
+  },
+  {
+    "id": "hard-286",
+    "level": "hard",
+    "text": "Was wäre ein triftiger Kündigungsgrund für die Fantasie?"
+  },
+  {
+    "id": "hard-287",
+    "level": "hard",
+    "text": "Ein Satz aus einer Selbsthilfegruppe für überflüssige Erfindungen"
+  },
+  {
+    "id": "hard-288",
+    "level": "hard",
+    "text": "Eine Sache, die im Abo für ein sorgenfreies Leben ausgeschlossen wäre"
+  },
+  {
+    "id": "hard-289",
+    "level": "hard",
+    "text": "Was könnte ein ehrlicher Märchenerzähler ständig dazusagen?"
+  },
+  {
+    "id": "hard-290",
+    "level": "hard",
+    "text": "Ein Gegenstand, der wie eine physische Form von Trotz wirkt"
+  },
+  {
+    "id": "hard-291",
+    "level": "hard",
+    "text": "Ein Punkt auf der Tagesordnung einer Versammlung der Naturgesetze"
+  },
+  {
+    "id": "hard-292",
+    "level": "hard",
+    "text": "Was wäre ein gutes Versteck für eine offensichtliche Wahrheit?"
+  },
+  {
+    "id": "hard-293",
+    "level": "hard",
+    "text": "Eine Leistung, für die man sich selbst zu viel Applaus gibt"
+  },
+  {
+    "id": "hard-294",
+    "level": "hard",
+    "text": "Ein Anzeichen dafür, dass eine Prophezeiung von einem Praktikanten stammt"
+  },
+  {
+    "id": "hard-295",
+    "level": "hard",
+    "text": "Was könnte die Sehnsucht in ihrer Handtasche tragen?"
+  },
+  {
+    "id": "hard-296",
+    "level": "hard",
+    "text": "Ein kleiner Alltagsluxus, der sich wie ein Regelbruch anfühlt"
+  },
+  {
+    "id": "hard-297",
+    "level": "hard",
+    "text": "Eine Sache, die als Beleidigung gemeint und als Lob verstanden wird"
+  },
+  {
+    "id": "hard-298",
+    "level": "hard",
+    "text": "Was würde ein schlecht gelaunter Erzähler über deinen Alltag sagen?"
+  },
+  {
+    "id": "hard-299",
+    "level": "hard",
+    "text": "Ein Grund, warum die Pointe zu spät auf der Party auftaucht"
+  },
+  {
+    "id": "hard-300",
+    "level": "hard",
+    "text": "Der Abspann meines Lebens würde sich bedanken bei ..."
   }
 ]
